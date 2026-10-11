@@ -1316,6 +1316,7 @@
   <ModOp GUID="100416,1010305,1010304,1010307,1010308,1010309" Type="add" Path="Values/">
     <BuffFactory>
       <BaseBuff>2143505516</BaseBuff>
+      <BaseBuffScope>Local</BaseBuffScope>
     </BuffFactory>
   </ModOp>
   <!-- End - Buildings -->
