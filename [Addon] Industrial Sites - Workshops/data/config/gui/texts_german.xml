@@ -1,0 +1,124 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2143505667</GUID>
+      <Text>Werkstatt</Text>
+    </Text>
+    <Text>
+      <GUID>2143505668</GUID>
+      <Text>Stellt der verarbeitenden Industrie verschiedene Geräte und Werkzeuge bereit.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505670</GUID>
+      <Text>Hobel</Text>
+    </Text>
+    <Text>
+      <GUID>2143505671</GUID>
+      <Text>Werkstatt: Hobel</Text>
+    </Text>
+    <Text>
+      <GUID>2143505672</GUID>
+      <Text>Geschätzte Verkäufe von Hobeln</Text>
+    </Text>
+    <Text>
+      <GUID>2143505673</GUID>
+      <Text>Werkstatt: Flaschenzüge</Text>
+    </Text>
+    <Text>
+      <GUID>2143505674</GUID>
+      <Text>Flaschenzug</Text>
+    </Text>
+    <Text>
+      <GUID>2143505675</GUID>
+      <Text>Ein Werkzeug, das zum Heben und Absenken schwerer Lasten entwickelt wurde.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505676</GUID>
+      <Text>Eine Werkstatt, wo Geräte für Industrie oder Handwerk konstruiert und gefertigt werden.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505677</GUID>
+      <Text>Ein halbmechanisches Schneidegerät, das besonders von Arbeitern geschätzt wird, die alle Finger behalten wollen. Funktioniert gleichermaßen für Brot und Fleisch.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505678</GUID>
+      <Text>Geschätzte Verkäufe von Flaschenzügen</Text>
+    </Text>
+    <Text>
+      <GUID>2143505679</GUID>
+      <Text>Werkstatt: Erntemaschinen</Text>
+    </Text>
+    <Text>
+      <GUID>2143505680</GUID>
+      <Text>Erntemaschinen</Text>
+    </Text>
+    <Text>
+      <GUID>2143505681</GUID>
+      <Text>Geschätzte Verkäufe von Erntemaschinen</Text>
+    </Text>
+    <Text>
+      <GUID>2143505682</GUID>
+      <Text>Jüngste technologische Fortschritte haben die Entwicklung selbstfahrender Erntemaschinen ermöglicht. Entfesseln Sie die Kraft dieser dröhnenden Motoren und beobachten Sie, wie riesige Felder von der Maschine verschlungen werden.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505683</GUID>
+      <Text>Werkstatt: Kreissägen</Text>
+    </Text>
+    <Text>
+      <GUID>2143505684</GUID>
+      <Text>Kreissäge</Text>
+    </Text>
+    <Text>
+      <GUID>2143505685</GUID>
+      <Text>Die Klinge ist so scharf, dass sie sich besonders zum Roden eines Waldes eignet.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505686</GUID>
+      <Text>Geschätzte Verkäufe von Kreissägen</Text>
+    </Text>
+    <Text>
+      <GUID>2143505687</GUID>
+      <Text>Werkstatt: Generatoren</Text>
+    </Text>
+    <Text>
+      <GUID>2143505688</GUID>
+      <Text>Generator</Text>
+    </Text>
+    <Text>
+      <GUID>2143505689</GUID>
+      <Text>Geschätzte Verkäufe von Generatoren</Text>
+    </Text>
+    <Text>
+      <GUID>2143505690</GUID>
+      <Text>Leistungsstarke Turbinen, die mit der Kraft der Gezeiten die Produktion unterstützen.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505691</GUID>
+      <Text>Alle Flussproduktionsbetriebe</Text>
+    </Text>
+    <Text>
+      <GUID>2143506000</GUID>
+      <Text>Landwirtschaftliche Anpassung</Text>
+    </Text>
+    <Text>
+      <GUID>2143506001</GUID>
+      <Text>Landwirtschaftliche Anpassung</Text>
+    </Text>
+    <Text>
+      <GUID>2143506002</GUID>
+      <Text>Landwirtschaftliche Anpassung</Text>
+    </Text>
+    <Text>
+      <GUID>2143506003</GUID>
+      <Text>Zusammenarbeit mit der Sägemühle</Text>
+    </Text>
+    <Text>
+      <GUID>2143506004</GUID>
+      <Text>Zusammenarbeit mit der Sägemühle</Text>
+    </Text>
+    <Text>
+      <GUID>2143506005</GUID>
+      <Text>Zusammenarbeit mit der Sägemühle</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,63 @@
+<ModOps>
+  <ModOp Type="addNextSibling" GUID="25546">
+    <Asset>
+      <Template>ConstructionCategory</Template>
+      <Values>
+        <Standard>
+          <GUID>2143505864</GUID>
+          <Name>Workshop Menu</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_workshop.png</IconFilename>
+        </Standard>
+        <ConstructionCategory>
+          <BuildingList />
+          <CategoryDescription>2143505402</CategoryDescription>
+        </ConstructionCategory>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp GUID="25000190" Type="addNextSibling" Path="Values/ConstructionCategory/BuildingList/Item[position()=1][1]">
+    <Item>
+      <Building>2143505864</Building>
+    </Item>
+  </ModOp>  
+  <ModOp GUID="25000189" Type="addNextSibling" Path="Values/ConstructionCategory/BuildingList/Item[last()]">
+    <Item>
+      <Building>135085</Building>
+    </Item>
+  </ModOp>
+  
+  
+  <ModOp GUID="2143505864" Type="add" Path="Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>2143505866</Building>
+    </Item>
+    <Item>
+      <Building>2143505867</Building>
+    </Item>
+    <Item>
+      <Building>2143505868</Building>
+    </Item>
+    <Item>
+      <Building>2143505869</Building>
+    </Item>
+    <Item>
+      <Building>2143505870</Building>
+    </Item>
+    <Item>
+      <Building>2143505871</Building>
+    </Item>
+    <Item>
+      <Building>2143505872</Building>
+    </Item>
+    <Item>
+      <Building>2143505667</Building>
+    </Item>
+  </ModOp>
+  
+  <ModOp GUID="500945" Type="addNextSibling" Path="Values/ConstructionCategory/BuildingList/Item[Building='500004']">
+    <Item>
+      <Building>2143505864</Building>
+    </Item>
+  </ModOp>
+</ModOps>
