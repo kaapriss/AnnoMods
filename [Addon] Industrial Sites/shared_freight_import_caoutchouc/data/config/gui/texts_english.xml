@@ -1,8 +1,0 @@
-<ModOps>
-  <ModOp Type="add" Path="/TextExport/Texts">
-    <Text>
-      <GUID>2143505422</GUID>
-      <Text>Import Freight Dock: Caoutchouc</Text>
-    </Text>
-  </ModOp>
-</ModOps>
