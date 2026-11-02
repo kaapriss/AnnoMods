@@ -96,29 +96,47 @@
       <GUID>2143505691</GUID>
       <Text>Toute la construction fluviale</Text>
     </Text>
+
+    <!-- # Start - Workshops Assets -->
     <Text>
-      <GUID>2143506000</GUID>
-      <Text>Adaptation agricole</Text>
+      <!-- TODO translation -->
+      <GUID>2143505864</GUID>
+      <Text>Workshop</Text>
     </Text>
     <Text>
-      <GUID>2143506001</GUID>
-      <Text>Adaptation agricole</Text>
+      <!-- TODO translation -->
+      <GUID>2143505866</GUID>
+      <Text>Bloomery</Text>
     </Text>
     <Text>
-      <GUID>2143506002</GUID>
-      <Text>Adaptation agricole</Text>
+      <!-- TODO translation -->
+      <GUID>2143505867</GUID>
+      <Text>Blacksmith</Text>
     </Text>
     <Text>
-      <GUID>2143506003</GUID>
-      <Text>Coopération dans la scierie</Text>
+      <!-- TODO translation -->
+      <GUID>2143505868</GUID>
+      <Text>Wheelwright</Text>
     </Text>
     <Text>
-      <GUID>2143506004</GUID>
-      <Text>Coopération dans la scierie</Text>
+      <!-- TODO translation -->
+      <GUID>2143505869</GUID>
+      <Text>Carpenter</Text>
     </Text>
     <Text>
-      <GUID>2143506005</GUID>
-      <Text>Coopération dans la scierie</Text>
+      <!-- TODO translation -->
+      <GUID>2143505870</GUID>
+      <Text>Pipe Maker</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505871</GUID>
+      <Text>Gramophone Workshop</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505872</GUID>
+      <Text>Typewriter Workshop</Text>
     </Text>
   </ModOp>
 </ModOps>

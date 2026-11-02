@@ -10,8 +10,26 @@
         </Standard>
         <ConstructionCategory>
           <BuildingList />
-          <CategoryDescription>2143505402</CategoryDescription>
+          <CategoryDescription>2143557035</CategoryDescription>
         </ConstructionCategory>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143557035</GUID>
+          <Name>BuildingCategory_Workshops</Name>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Workshop</Text>
+              <Status>Exported</Status>
+            </English>
+          </LocaText>
+          <LineID>52365</LineID>
+        </Text>
       </Values>
     </Asset>
   </ModOp>
@@ -51,7 +69,7 @@
       <Building>2143505872</Building>
     </Item>
     <Item>
-      <Building>2143505667</Building>
+      <Building>2143557038</Building>
     </Item>
   </ModOp>
   

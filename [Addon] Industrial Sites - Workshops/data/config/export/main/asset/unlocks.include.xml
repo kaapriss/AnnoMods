@@ -348,5 +348,112 @@
         <TriggerSetup />
       </Values>
     </Asset>
+    
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2143557037</GUID>
+          <Name>@1 Engineer or Tractors</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <Condition>
+                <SubConditionCompletionOrder>MutuallyExclusive</SubConditionCompletionOrder>
+              </Condition>
+              <ConditionAlwaysTrue />
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>2143557036</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+          <SubTriggers>
+            <Item>
+              <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                  <Trigger>
+                    <TriggerCondition>
+                      <Template>ConditionPlayerCounter</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionPlayerCounter>
+                          <PlayerCounter>PopulationByLevel</PlayerCounter>
+                          <Context>269837</Context>
+                          <CounterAmount>1</CounterAmount>
+                        </ConditionPlayerCounter>
+                      </Values>
+                    </TriggerCondition>
+                  </Trigger>
+                </Values>
+              </SubTrigger>
+            </Item>
+            <Item>
+              <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                  <Trigger>
+                    <TriggerCondition>
+                      <Template>ConditionPlayerCounter</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionPlayerCounter>
+                          <PlayerCounter>PopulationByLevel</PlayerCounter>
+                          <Context>269839</Context>
+                          <CounterAmount>1</CounterAmount>
+                        </ConditionPlayerCounter>
+                      </Values>
+                    </TriggerCondition>
+                  </Trigger>
+                </Values>
+              </SubTrigger>
+            </Item>
+            <Item>
+              <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                  <Trigger>
+                    <TriggerCondition>
+                      <Template>ConditionPlayerCounter</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionPlayerCounter>
+                          <PlayerCounter>PopulationByLevel</PlayerCounter>
+                          <Context>15000003</Context>
+                          <CounterAmount>1</CounterAmount>
+                        </ConditionPlayerCounter>
+                      </Values>
+                    </TriggerCondition>
+                  </Trigger>
+                </Values>
+              </SubTrigger>
+            </Item>
+          </SubTriggers>
+          <ResetTrigger>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <EmptyAutoCreateValue />
+            </Values>
+          </ResetTrigger>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
   </ModOp>
 </ModOps>

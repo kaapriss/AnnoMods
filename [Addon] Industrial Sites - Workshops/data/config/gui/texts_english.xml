@@ -62,11 +62,11 @@
     </Text>
     <Text>
       <GUID>2143505683</GUID>
-      <Text>Workshop: Circular Saw</Text>
+      <Text>Workshop: Tools</Text>
     </Text>
     <Text>
       <GUID>2143505684</GUID>
-      <Text>Circular Saw</Text>
+      <Text>Tools</Text>
     </Text>
     <Text>
       <GUID>2143505685</GUID>
@@ -74,7 +74,7 @@
     </Text>
     <Text>
       <GUID>2143505686</GUID>
-      <Text>Estimated Circular Saw Sales</Text>
+      <Text>Estimated Tools Sales</Text>
     </Text>
     <Text>
       <GUID>2143505687</GUID>
@@ -97,28 +97,50 @@
       <Text>All river building</Text>
     </Text>
     <Text>
-      <GUID>2143506000</GUID>
-      <Text>Agricultural adaptation</Text>
+      <GUID>2143557035</GUID>
+      <Text>Workshop</Text>
     </Text>
     <Text>
-      <GUID>2143506001</GUID>
-      <Text>Agricultural adaptation</Text>
+      <GUID>2143557038</GUID>
+      <Text>Rural Workshop</Text>
     </Text>
     <Text>
-      <GUID>2143506002</GUID>
-      <Text>Agricultural adaptation</Text>
+      <GUID>2143557040</GUID>
+      <Text></Text>
+    </Text>
+
+    <!-- # Start - Workshops Assets -->
+    <Text>
+      <GUID>2143505864</GUID>
+      <Text>Workshop</Text>
     </Text>
     <Text>
-      <GUID>2143506003</GUID>
-      <Text>Sawmill co-operation</Text>
+      <GUID>2143505866</GUID>
+      <Text>Bloomery</Text>
     </Text>
     <Text>
-      <GUID>2143506004</GUID>
-      <Text>Sawmill co-operation</Text>
+      <GUID>2143505867</GUID>
+      <Text>Blacksmith</Text>
     </Text>
     <Text>
-      <GUID>2143506005</GUID>
-      <Text>Sawmill co-operation</Text>
+      <GUID>2143505868</GUID>
+      <Text>Wheelwright</Text>
+    </Text>
+    <Text>
+      <GUID>2143505869</GUID>
+      <Text>Carpenter</Text>
+    </Text>
+    <Text>
+      <GUID>2143505870</GUID>
+      <Text>Pipe Maker</Text>
+    </Text>
+    <Text>
+      <GUID>2143505871</GUID>
+      <Text>Gramophone Workshop</Text>
+    </Text>
+    <Text>
+      <GUID>2143505872</GUID>
+      <Text>Typewriter Workshop</Text>
     </Text>
   </ModOp>
 </ModOps>
