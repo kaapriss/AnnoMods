@@ -354,7 +354,7 @@
         <Object>
           <Variations>
             <Item>
-              <Filename>data/modgraphics/workshop/gramophone.cfg</Filename>
+              <Filename>data/modgraphics/workshop/gramophone_2.cfg</Filename>
             </Item>
           </Variations>
         </Object>
@@ -366,7 +366,7 @@
               <ActionList />
             </Values>
           </OnSelection>
-          <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
+          <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
           <Colors>
             <WeakSelectionColorType>NoColor</WeakSelectionColorType>
           </Colors>
