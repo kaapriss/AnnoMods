@@ -1,10 +1,11 @@
 <ModOps>
+  <!-- 2143505860 -->
   <ModOp Type="addNextSibling" GUID="1010284">
     <Asset>
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143505860</GUID>
+          <GUID>2143557041</GUID>
           <Name>Creative mode</Name>
         </Standard>
         <Trigger>
@@ -43,6 +44,9 @@
                       </Item>
                       <Item>
                         <Asset>2143505872</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143557036</Asset>
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>

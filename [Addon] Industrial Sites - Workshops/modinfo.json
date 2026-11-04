@@ -4,7 +4,8 @@
 	"IncompatibleIds": null,
 	"ModDependencies": [
 		"shared_goods_iron",
-		"tools-jakob"
+		"tools-jakob",
+		"Taludas_neutral_irontower_workforceslider"
 	],
 	"LoadAfterIds": [
 		"Taludas_VanillaRiverSlotBuildingsOW"

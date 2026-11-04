@@ -38,7 +38,7 @@
 
   <ModOp Type="addNextSibling" GUID="25546">
     <Asset>
-      <Template>Workshop</Template>
+      <Template>WorkshopAdjustableWorkforce</Template>
       <Values>
         <Standard>
           <GUID>2143557038</GUID>
@@ -148,7 +148,7 @@
       </Values>
     </Asset>
     <Asset>
-      <Template>Workshop</Template>
+      <Template>WorkshopAdjustableWorkforce</Template>
       <Values>
         <Standard>
           <GUID>2143505679</GUID>
@@ -288,8 +288,8 @@
           </Maintenances>
           <CanRequestAdditionalWorkforce>1</CanRequestAdditionalWorkforce>
           <AdditionalWorkforceData>
-            <MaxAdditionalWorkforce>5000</MaxAdditionalWorkforce>
-            <AdditionalWorkforceSliderStepSize>50</AdditionalWorkforceSliderStepSize>
+            <MaxAdditionalWorkforce>100</MaxAdditionalWorkforce>
+            <AdditionalWorkforceSliderStepSize>1</AdditionalWorkforceSliderStepSize>
             <AdditionalWorkforce>1010115</AdditionalWorkforce>
           </AdditionalWorkforceData>
         </Maintenance>
@@ -315,7 +315,7 @@
           <ProductionBuffScope>Radius</ProductionBuffScope>
           <ProductionBuffDistance>25</ProductionBuffDistance>
           <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-			    <RangeIncreasePerHundredAdditionalWorkforce>1.5</RangeIncreasePerHundredAdditionalWorkforce>
+			    <RangeIncreasePerHundredAdditionalWorkforce>15.0</RangeIncreasePerHundredAdditionalWorkforce>
         </BuffFactory>
         <RecipeBuilding>
           <RecipeList>2143557039</RecipeList>
@@ -325,7 +325,7 @@
       </Values>
     </Asset>
     <Asset>
-      <Template>Workshop</Template>
+      <Template>WorkshopAdjustableWorkforce</Template>
       <Values>
         <Standard>
           <GUID>2143505683</GUID>
@@ -455,8 +455,8 @@
           </Maintenances>
           <CanRequestAdditionalWorkforce>1</CanRequestAdditionalWorkforce>
           <AdditionalWorkforceData>
-            <MaxAdditionalWorkforce>5000</MaxAdditionalWorkforce>
-            <AdditionalWorkforceSliderStepSize>50</AdditionalWorkforceSliderStepSize>
+            <MaxAdditionalWorkforce>100</MaxAdditionalWorkforce>
+            <AdditionalWorkforceSliderStepSize>1</AdditionalWorkforceSliderStepSize>
             <AdditionalWorkforce>1010115</AdditionalWorkforce>
           </AdditionalWorkforceData>
         </Maintenance>
@@ -482,7 +482,7 @@
           <ProductionBuffScope>Radius</ProductionBuffScope>
           <ProductionBuffDistance>25</ProductionBuffDistance>
           <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-			    <RangeIncreasePerHundredAdditionalWorkforce>1.5</RangeIncreasePerHundredAdditionalWorkforce>
+			    <RangeIncreasePerHundredAdditionalWorkforce>15.0</RangeIncreasePerHundredAdditionalWorkforce>
         </BuffFactory>
         <RecipeBuilding>
           <RecipeList>2143557039</RecipeList>
