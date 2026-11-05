@@ -6,13 +6,13 @@
       <Template>AssetPool</Template>
       <Values>
         <Standard>
-          <GUID>2143557036</GUID>
+          <GUID>2143506027</GUID>
           <Name>AssetPool Rural Workshop</Name>
         </Standard>
         <AssetPool>
           <AssetList>
             <Item>
-              <Asset>2143557038</Asset>
+              <Asset>2143506029</Asset>
             </Item>
             <Item>
               <Asset>2143505679</Asset>
@@ -21,7 +21,7 @@
               <Asset>2143505683</Asset>
             </Item>
             <Item>
-              <Asset>2143557039</Asset>
+              <Asset>2143506030</Asset>
             </Item>
             <Item>
               <Asset>2143505680</Asset>
@@ -41,7 +41,7 @@
       <Template>WorkshopAdjustableWorkforce</Template>
       <Values>
         <Standard>
-          <GUID>2143557038</GUID>
+          <GUID>2143506029</GUID>
           <Name>Rural Workshop: Blank</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/icon_rural_workshop.png</IconFilename>
           <InfoDescription>2143505668</InfoDescription>
@@ -141,7 +141,7 @@
           <ProvidesPublicServiceNeed>0</ProvidesPublicServiceNeed>
         </BuffFactory>
         <RecipeBuilding>
-          <RecipeList>2143557039</RecipeList>
+          <RecipeList>2143506030</RecipeList>
           <IsBlank>1</IsBlank>
         </RecipeBuilding>
         <Culture/>
@@ -318,7 +318,7 @@
 			    <RangeIncreasePerHundredAdditionalWorkforce>15.0</RangeIncreasePerHundredAdditionalWorkforce>
         </BuffFactory>
         <RecipeBuilding>
-          <RecipeList>2143557039</RecipeList>
+          <RecipeList>2143506030</RecipeList>
           <RecipeBuildingType>Multifactory</RecipeBuildingType>
         </RecipeBuilding>
         <Culture/>
@@ -485,7 +485,7 @@
 			    <RangeIncreasePerHundredAdditionalWorkforce>15.0</RangeIncreasePerHundredAdditionalWorkforce>
         </BuffFactory>
         <RecipeBuilding>
-          <RecipeList>2143557039</RecipeList>
+          <RecipeList>2143506030</RecipeList>
           <RecipeBuildingType>Multifactory</RecipeBuildingType>
         </RecipeBuilding>
         <Culture/>
@@ -499,7 +499,7 @@
       <Template>RecipeList</Template>
       <Values>
         <Standard>
-          <GUID>2143557039</GUID>
+          <GUID>2143506030</GUID>
           <Name>RecipeList_RuralWorkshop</Name>
         </Standard>
         <RecipeList>
@@ -513,7 +513,7 @@
           </Recipes>
 			    <RecipeListType>DropGood</RecipeListType>
 			    <RecipeListMoodImage>data/ui/2kimages/main/assets/recipebook/mood_images/recipebook_moodimages_treeplanter.png</RecipeListMoodImage>
-          <RecipeListDescription>2143557040</RecipeListDescription>
+          <RecipeListDescription>2143506032</RecipeListDescription>
         </RecipeList>
       </Values>
     </Asset>

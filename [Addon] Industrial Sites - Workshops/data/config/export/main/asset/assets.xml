@@ -1,3 +1,44 @@
+<!-- 
+2143505666 - AssetPool Workshop - AssetPool
+2143505667 - Workshop: Blank - Mall
+2143505671 - Workshop: Slicer - Mall
+2143505673 - Workshop: Hoist  - Mall
+2143505687 - Workshop: Generator - Mall
+2143505669 - RecipeList_Workshop - RecipeList
+2143505670 - Recipe_Slicer - Recipe
+2143505674 - Recipe_Hoist  - Recipe
+2143505688 - Recipe_Generator - Recipe
+2143505672 - Buff_Boost_Slicer - GuildhouseBuff
+2143505678 - Buff_Boost_Hoist - GuildhouseBuff
+2143505689 - Buff_Boost_Generator - GuildhouseBuff
+2143505691 - all River Building - ItemEffectTargetPool
+2143505864 - Workshop Menu - ConstructionCategory
+2143506031 - BuildingCategory_Workshops - Text
+2143506027 - AssetPool Rural Workshop - AssetPool
+2143506029 - Rural Workshop: Blank - WorkshopAdjustableWorkforce
+2143505679 - Rural Workshop: Harvester - WorkshopAdjustableWorkforce
+2143505683 - Rural Workshop: Tools - WorkshopAdjustableWorkforce
+2143506030 - RecipeList_RuralWorkshop - RecipeList
+2143505680 - Recipe_Harvester - Recipe
+2143505684 - Recipe_Tool - Recipe
+2143505681 - Buff_Boost_Harvester - GuildhouseBuff
+2143505686 - Buff_Boost_Forestry - GuildhouseBuff
+2143506026 - Creative mode - Trigger
+2143505874 - @ 300 Workers - Trigger
+2143505875 - @ 600 Workers - Trigger
+2143505877 - @ 900 Artisans - Trigger
+2143505878 - @ 1200 Artisans - Trigger
+2143505880 - @ 300 Elders - Trigger
+2143506028 - @1 Engineer or Tractors - Trigger
+2143505866 - Bloomery - FactoryBuilding7
+2143505867 - Blacksmith - FactoryBuilding7
+2143505868 - Wheelwright - FactoryBuilding7
+2143505869 - Carpenter - FactoryBuilding7
+2143505870 - Pipe Maker - FactoryBuilding7
+2143505871 - Gramophone Workshop - FactoryBuilding7
+2143505872 - Typewriter Workshop - FactoryBuilding7
+-->
+
 <ModOps>
   <Include File="./menu.include.xml" />
   <Include File="./unlocks.include.xml" />
@@ -71,7 +112,7 @@
           <InfoDescription>2143505668</InfoDescription>
         </Standard>
         <Building>
-			    <BuildingCategoryName>2143557035</BuildingCategoryName>
+			    <BuildingCategoryName>2143506031</BuildingCategoryName>
         </Building>
         <Blocking/>
         <Object>
@@ -181,7 +222,7 @@
           <InfoDescription>2143505668</InfoDescription>
         </Standard>
         <Building>
-			    <BuildingCategoryName>2143557035</BuildingCategoryName>
+			    <BuildingCategoryName>2143506031</BuildingCategoryName>
         </Building>
         <Blocking/>
         <Object>
@@ -353,7 +394,7 @@
           <InfoDescription>2143505668</InfoDescription>
         </Standard>
         <Building>
-			    <BuildingCategoryName>2143557035</BuildingCategoryName>
+			    <BuildingCategoryName>2143506031</BuildingCategoryName>
         </Building>
         <Blocking/>
         <Object>
@@ -525,7 +566,7 @@
           <InfoDescription>2143505668</InfoDescription>
         </Standard>
         <Building>
-			    <BuildingCategoryName>2143557035</BuildingCategoryName>
+			    <BuildingCategoryName>2143506031</BuildingCategoryName>
         </Building>
         <Blocking/>
         <Object>

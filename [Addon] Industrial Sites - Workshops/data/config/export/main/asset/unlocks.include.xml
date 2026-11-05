@@ -1,11 +1,10 @@
 <ModOps>
-  <!-- 2143505860 -->
   <ModOp Type="addNextSibling" GUID="1010284">
     <Asset>
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143557041</GUID>
+          <GUID>2143506026</GUID>
           <Name>Creative mode</Name>
         </Standard>
         <Trigger>
@@ -46,7 +45,7 @@
                         <Asset>2143505872</Asset>
                       </Item>
                       <Item>
-                        <Asset>2143557036</Asset>
+                        <Asset>2143506027</Asset>
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>
@@ -357,7 +356,7 @@
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143557037</GUID>
+          <GUID>2143506028</GUID>
           <Name>@1 Engineer or Tractors</Name>
         </Standard>
         <Trigger>
@@ -379,7 +378,7 @@
                   <ActionUnlockAsset>
                     <UnlockAssets>
                       <Item>
-                        <Asset>2143557036</Asset>
+                        <Asset>2143506027</Asset>
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>

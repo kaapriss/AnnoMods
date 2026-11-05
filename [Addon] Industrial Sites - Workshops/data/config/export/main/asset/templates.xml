@@ -5,7 +5,7 @@
       <Properties>
         <Standard/>
         <Building>
-          <BuildingCategoryName>2143557035</BuildingCategoryName>
+          <BuildingCategoryName>2143506031</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
           <AllowChangeVariation>1</AllowChangeVariation>
         </Building>
@@ -125,7 +125,7 @@
         <Building>
           <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
           <SecondPartyRelevant>0</SecondPartyRelevant>
-          <BuildingCategoryName>2143557035</BuildingCategoryName>
+          <BuildingCategoryName>2143506031</BuildingCategoryName>
           <AllowChangeVariation>1</AllowChangeVariation>
         </Building>
         <Blocking/>

@@ -10,7 +10,7 @@
         </Standard>
         <ConstructionCategory>
           <BuildingList />
-          <CategoryDescription>2143557035</CategoryDescription>
+          <CategoryDescription>2143506031</CategoryDescription>
         </ConstructionCategory>
       </Values>
     </Asset>
@@ -18,7 +18,7 @@
       <Template>Text</Template>
       <Values>
         <Standard>
-          <GUID>2143557035</GUID>
+          <GUID>2143506031</GUID>
           <Name>BuildingCategory_Workshops</Name>
         </Standard>
         <Text>
@@ -69,7 +69,7 @@
       <Building>2143505872</Building>
     </Item>
     <Item>
-      <Building>2143557038</Building>
+      <Building>2143506029</Building>
     </Item>
   </ModOp>
   
