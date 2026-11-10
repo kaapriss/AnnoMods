@@ -36,8 +36,53 @@
       <Template>Text</Template>
       <Values>
         <Standard>
+          <GUID>2143506032</GUID>
+          <Name>DescriptionText_RuralWorkshop</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
           <GUID>2143506034</GUID>
           <Name>RecipeDescriptionText_Shears</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506041</GUID>
+          <Name>RecipeDescriptionText_Bucket</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506045</GUID>
+          <Name>RecipeDescriptionText_Trap</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506050</GUID>
+          <Name>RecipeDescriptionText_Plough</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506054</GUID>
+          <Name>RecipeDescriptionText_Treetap</Name>
         </Standard>
       </Values>
     </Asset>

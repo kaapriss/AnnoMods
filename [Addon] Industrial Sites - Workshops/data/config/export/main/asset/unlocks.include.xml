@@ -63,7 +63,7 @@
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143505874</GUID>
+          <GUID>2143506038</GUID>
           <Name>@ 300 Workers</Name>
         </Standard>
         <Trigger>
@@ -88,6 +88,9 @@
                     <UnlockAssets>
                       <Item>
                         <Asset>2143505866</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506000</Asset>
                       </Item>
                       <Item>
                         <Asset>2143505867</Asset>
