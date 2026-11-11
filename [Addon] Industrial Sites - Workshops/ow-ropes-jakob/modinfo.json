@@ -1,0 +1,53 @@
+{
+  "Version": "1.0.7",
+  "ModID": "ow-ropes-jakob",
+  "ModDependencies": [
+    "shared-pools-and-definitions",
+    "ropes-jakob"
+  ],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions",
+    "hemp-jakob"
+  ],
+  "Category": {
+    "English": "Production",
+    "Chinese": "Production",
+    "French": "Production",
+    "German": "Production",
+    "Italian": "Production",
+    "Japanese": "Production",
+    "Korean": "Production",
+    "Polish": "Production",
+    "Russian": "Production",
+    "Spanish": "Production",
+    "Taiwanese": "Production"
+  },
+  "ModName": {
+    "English": "OW Ropes (Jakob)",
+    "Chinese": "OW Ropes (Jakob)",
+    "French": "OW Ropes (Jakob)",
+    "German": "OW Ropes (Jakob)",
+    "Italian": "OW Ropes (Jakob)",
+    "Japanese": "OW Ropes (Jakob)",
+    "Korean": "OW Ropes (Jakob)",
+    "Polish": "OW Ropes (Jakob)",
+    "Russian": "OW Ropes (Jakob)",
+    "Spanish": "OW Ropes (Jakob)",
+    "Taiwanese": "OW Ropes (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno1800-shared-mods",
+  "Description": {
+    "English": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  }
+}

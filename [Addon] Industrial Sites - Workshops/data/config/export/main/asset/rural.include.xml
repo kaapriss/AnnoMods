@@ -461,8 +461,8 @@
       <Values>
         <Standard>
           <GUID>2143506039</GUID>
-          <Name>Rural Workshop: Buckets</Name>
-			    <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_bucket.png</IconFilename>
+          <Name>Rural Workshop: Fishing Net</Name>
+			    <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_fishernet_3.png</IconFilename>
           <InfoDescription>2143505668</InfoDescription>
         </Standard>
         <Blocking/>
@@ -563,12 +563,7 @@
         <FactoryBase>
           <FactoryInputs>
             <Item>
-              <Product>1500010153</Product><!-- tools -->
-              <Amount>1</Amount>
-              <StorageAmount>10</StorageAmount>
-            </Item>
-            <Item>
-              <Product>2143506000</Product><!-- iron bar -->
+              <Product>1500010825</Product><!-- ropes -->
               <Amount>1</Amount>
               <StorageAmount>10</StorageAmount>
             </Item>
@@ -1440,13 +1435,13 @@
       <Values>
         <Standard>
           <GUID>2143506040</GUID>
-          <Name>Recipe_Bucket</Name>
-			    <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_bucket.png</IconFilename>
+          <Name>Recipe_Fishernet</Name>
+			    <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_fishernet_3.png</IconFilename>
         </Standard>
         <Recipe>
           <RecipeBuilding>2143506039</RecipeBuilding>
           <RecipeDescriptionText>2143506041</RecipeDescriptionText>
-          <RecipeImage>data/ui/2kimages/main/assets/recipebook/mechanical_workshop/recipebook_workshop_bucket.png</RecipeImage>
+          <RecipeImage>data/ui/2kimages/main/assets/recipebook/mechanical_workshop/recipebook_workshop_fishernet.png</RecipeImage>
           <RecipeIngredientUIData>
             <Item>
               <PosX>14</PosX>
@@ -1761,16 +1756,13 @@
       <Values>
         <Standard>
           <GUID>2143506042</GUID>
-          <Name>Buff_Boost_Bucket</Name>
-			    <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_bucket.png</IconFilename>
+          <Name>Buff_Boost_Fishernet</Name>
+			    <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_fishernet_3.png</IconFilename>
         </Standard>
         <ItemEffect>
           <EffectTargets>
             <Item>
-					    <GUID>1010267</GUID>
-            </Item>
-            <Item>
-					    <GUID>1010263</GUID>
+					    <GUID>190779</GUID>
             </Item>
           </EffectTargets>
           <AllowStacking>0</AllowStacking>
@@ -1778,17 +1770,36 @@
         <FactoryUpgrade>
           <AdditionalOutput>
             <Item>
-					    <Product>5385</Product>
+					    <Product>1010200</Product>
+              <AdditionalOutputCycle>1</AdditionalOutputCycle>
+              <Amount>2</Amount>
+            </Item>
+            <Item>
+					    <Product>5380</Product>
               <AdditionalOutputCycle>3</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+					    <Product>118728</Product>
+              <AdditionalOutputCycle>6</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+					    <Product>112518</Product>
+              <AdditionalOutputCycle>10</AdditionalOutputCycle>
               <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
         </FactoryUpgrade>
         <BuildingUpgrade>
           <MaintenanceUpgrade>
-            <Value>10</Value>
+            <Value>15</Value>
             <Percental>1</Percental>
           </MaintenanceUpgrade>
+          <WorkforceAmountUpgrade>
+            <Value>10</Value>
+            <Percental>1</Percental>
+          </WorkforceAmountUpgrade>
         </BuildingUpgrade>
         <Buff/>
         <CultureUpgrade/>

@@ -5,7 +5,10 @@
 	"ModDependencies": [
 		"shared_goods_iron",
 		"tools-jakob",
-		"Taludas_neutral_irontower_workforceslider"
+		"Taludas_neutral_irontower_workforceslider",
+		"ow-hemp-jakob",
+		"ow-ropes-jakob",
+		"ropes-jakob"
 	],
 	"LoadAfterIds": [
 		"Taludas_VanillaRiverSlotBuildingsOW"
