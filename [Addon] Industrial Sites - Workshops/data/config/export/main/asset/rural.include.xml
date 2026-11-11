@@ -13,9 +13,6 @@
         <Object>
           <Variations>
             <Item>
-              <Filename>data/modgraphics/workshop/workshop_harvester.cfg</Filename>
-            </Item>
-            <Item>
               <Filename>data/modgraphics/workshop/workshop_tools.cfg</Filename>
             </Item>
           </Variations>
@@ -469,7 +466,10 @@
         <Object>
           <Variations>
             <Item>
-              <Filename>data/modgraphics/workshop/workshop_tools.cfg</Filename>
+              <Filename>data/modgraphics/workshop/workshop_fishernet.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/modgraphics/workshop/workshop_fishernet_2.cfg</Filename>
             </Item>
           </Variations>
         </Object>
@@ -641,7 +641,7 @@
         <Object>
           <Variations>
             <Item>
-              <Filename>data/modgraphics/workshop/workshop_tools.cfg</Filename>
+              <Filename>data/modgraphics/workshop/workshop_plough.cfg</Filename>
             </Item>
           </Variations>
         </Object>
@@ -813,7 +813,7 @@
         <Object>
           <Variations>
             <Item>
-              <Filename>data/modgraphics/workshop/workshop_tools.cfg</Filename>
+              <Filename>data/modgraphics/workshop/workshop_trap.cfg</Filename>
             </Item>
           </Variations>
         </Object>
@@ -985,7 +985,7 @@
         <Object>
           <Variations>
             <Item>
-              <Filename>data/modgraphics/workshop/workshop_tools.cfg</Filename>
+              <Filename>data/modgraphics/workshop/workshop_treetap.cfg</Filename>
             </Item>
           </Variations>
         </Object>
