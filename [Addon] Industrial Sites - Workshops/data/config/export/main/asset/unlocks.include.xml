@@ -95,6 +95,39 @@
                       <Item>
                         <Asset>2143505867</Asset>
                       </Item>
+                      <Item>
+                        <Asset>2143506027</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506029</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143505683</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506030</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143505684</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506033</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506035</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506039</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506040</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506047</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506049</Asset>
+                      </Item>
                     </UnlockAssets>
                     <UnhideAssets>
                       <Item>
@@ -153,6 +186,51 @@
                       </Item>
                       <Item>
                         <Asset>135089</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506027</GUID>
+          <Name>@ 1 Artisans</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>2143506043</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506044</Asset>
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>
@@ -381,7 +459,16 @@
                   <ActionUnlockAsset>
                     <UnlockAssets>
                       <Item>
-                        <Asset>2143506027</Asset>
+                        <Asset>2143505679</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143505680</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506051</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>2143506053</Asset>
                       </Item>
                     </UnlockAssets>
                   </ActionUnlockAsset>
