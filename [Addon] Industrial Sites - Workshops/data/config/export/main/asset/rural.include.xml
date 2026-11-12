@@ -1621,17 +1621,17 @@
             <Item>
               <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
               <AdditionalOutputCycle>1</AdditionalOutputCycle>
-              <Amount>2</Amount>
+              <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
         </FactoryUpgrade>
         <BuildingUpgrade>
           <MaintenanceUpgrade>
-            <Value>20</Value>
+            <Value>-20</Value>
             <Percental>1</Percental>
           </MaintenanceUpgrade>
           <WorkforceAmountUpgrade>
-            <Value>15</Value>
+            <Value>-15</Value>
             <Percental>1</Percental>
           </WorkforceAmountUpgrade>
         </BuildingUpgrade>
@@ -1734,7 +1734,7 @@
         </FactoryUpgrade>
         <BuildingUpgrade>
           <MaintenanceUpgrade>
-            <Value>10</Value>
+            <Value>-10</Value>
             <Percental>1</Percental>
           </MaintenanceUpgrade>
         </BuildingUpgrade>
@@ -1793,11 +1793,11 @@
         </FactoryUpgrade>
         <BuildingUpgrade>
           <MaintenanceUpgrade>
-            <Value>15</Value>
+            <Value>-15</Value>
             <Percental>1</Percental>
           </MaintenanceUpgrade>
           <WorkforceAmountUpgrade>
-            <Value>10</Value>
+            <Value>-10</Value>
             <Percental>1</Percental>
           </WorkforceAmountUpgrade>
         </BuildingUpgrade>
@@ -1846,7 +1846,7 @@
         </FactoryUpgrade>
         <BuildingUpgrade>
           <MaintenanceUpgrade>
-            <Value>15</Value>
+            <Value>-15</Value>
             <Percental>1</Percental>
           </MaintenanceUpgrade>
         </BuildingUpgrade>
@@ -1883,14 +1883,14 @@
           <AdditionalOutput>
             <Item>
               <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-              <AdditionalOutputCycle>2</AdditionalOutputCycle>
+              <AdditionalOutputCycle>3</AdditionalOutputCycle>
               <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
         </FactoryUpgrade>
         <BuildingUpgrade>
           <WorkforceAmountUpgrade>
-            <Value>30</Value>
+            <Value>-20</Value>
             <Percental>1</Percental>
           </WorkforceAmountUpgrade>
         </BuildingUpgrade>
@@ -1939,7 +1939,7 @@
         </FactoryUpgrade>
         <BuildingUpgrade>
           <WorkforceAmountUpgrade>
-            <Value>10</Value>
+            <Value>-10</Value>
             <Percental>1</Percental>
           </WorkforceAmountUpgrade>
           <BuildingUpgrade>
