@@ -14,18 +14,39 @@
 2143505691 - all River Building - ItemEffectTargetPool
 2143505864 - Workshop Menu - ConstructionCategory
 2143506031 - BuildingCategory_Workshops - Text
-2143506027 - AssetPool Rural Workshop - AssetPool
+2143506032 - DescriptionText_RuralWorkshop - Text
+2143506034 - RecipeDescriptionText_Shears - Text
+2143506041 - RecipeDescriptionText_Fishernet - Text
+2143506045 - RecipeDescriptionText_Trap - Text
+2143506050 - RecipeDescriptionText_Plough - Text
+2143506054 - RecipeDescriptionText_Treetap - Text
 2143506029 - Rural Workshop: Blank - WorkshopAdjustableWorkforce
+2143505683 - Rural Workshop: Axe - WorkshopAdjustableWorkforce
+2143506035 - Rural Workshop: Shears - WorkshopAdjustableWorkforce
+2143506039 - Rural Workshop: Fishing Net - WorkshopAdjustableWorkforce
+2143506047 - Rural Workshop: Plough - WorkshopAdjustableWorkforce
+2143506043 - Rural Workshop: Traps - WorkshopAdjustableWorkforce
+2143506051 - Rural Workshop: Treetap - WorkshopAdjustableWorkforce
 2143505679 - Rural Workshop: Harvester - WorkshopAdjustableWorkforce
-2143505683 - Rural Workshop: Tools - WorkshopAdjustableWorkforce
 2143506030 - RecipeList_RuralWorkshop - RecipeList
+2143505684 - Recipe_Axe - Recipe
+2143506033 - Recipe_Shears - Recipe
+2143506040 - Recipe_Fishernet - Recipe
+2143506049 - Recipe_Plough - Recipe
+2143506044 - Recipe_Trap - Recipe
+2143506053 - Recipe_Treetap - Recipe
 2143505680 - Recipe_Harvester - Recipe
-2143505684 - Recipe_Tool - Recipe
 2143505681 - Buff_Boost_Harvester - GuildhouseBuff
-2143505686 - Buff_Boost_Forestry - GuildhouseBuff
+2143505686 - Buff_Boost_Axe - GuildhouseBuff
+2143506037 - Buff_Boost_Shears - GuildhouseBuff
+2143506042 - Buff_Boost_Fishernet - GuildhouseBuff
+2143506046 - Buff_Boost_Trap - GuildhouseBuff
+2143506048 - Buff_Boost_Plough - GuildhouseBuff
+2143506052 - Buff_Boost_Treetap - GuildhouseBuff
 2143506026 - Creative mode - Trigger
 2143506038 - @ 300 Workers - Trigger
 2143505875 - @ 600 Workers - Trigger
+2143506027 - @ 1 Artisans - Trigger
 2143505877 - @ 900 Artisans - Trigger
 2143505878 - @ 1200 Artisans - Trigger
 2143505880 - @ 300 Elders - Trigger
