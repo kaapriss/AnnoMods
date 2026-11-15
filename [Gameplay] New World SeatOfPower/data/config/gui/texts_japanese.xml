@@ -2,43 +2,43 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>2143505030</GUID>
-      <Text>アートフェア法</Text>
+      <Text>芸術見本市法</Text>
     </Text>
     <Text>
       <GUID>2143505031</GUID>
-      <Text>「だからこそ、これらの芸術作品を私たちの文化に含める必要があるのです!」</Text>
+      <Text>「だからこそ、こうした芸術作品を私たちの文化に取り入れるべきなのです！」</Text>
     </Text>
     <Text>
       <GUID>2143505146</GUID>
-      <Text>アセンブリの呼び出し</Text>
+      <Text>議会の招集</Text>
     </Text>
     <Text>
       <GUID>2143505147</GUID>
-      <Text>指示されたポリシー</Text>
+      <Text>制定された政策</Text>
     </Text>
     <Text>
       <GUID>2143505148</GUID>
-      <Text>テキストを公布する</Text>
+      <Text>文書を公布する</Text>
     </Text>
     <Text>
       <GUID>2143505149</GUID>
-      <Text>アクセスパレス</Text>
+      <Text>宮殿を開く</Text>
     </Text>
     <Text>
       <GUID>2143505150</GUID>
-      <Text>テキストを公布する</Text>
+      <Text>文書を公布する</Text>
     </Text>
     <Text>
       <GUID>2143505151</GUID>
-      <Text>公布されたテキストと法令の一部。市庁舎で公式に発表したり、保管したり、販売したりできます。</Text>
+      <Text>公布された文書や法令。市庁舎で正式に採用するほか、保管したり売却したりできます。</Text>
     </Text>
     <Text>
       <GUID>2143505152</GUID>
-      <Text>総会が終了し、制定されたテキストが提供されます。</Text>
+      <Text>議会が閉会し、採択された文書が届きました。</Text>
     </Text>
     <Text>
       <GUID>2143505153</GUID>
-      <Text>部門に応じて公布された独自のテキスト</Text>
+      <Text>部局ごとに異なる固有の公布文書</Text>
     </Text>
     <Text>
       <GUID>2143505154</GUID>
@@ -50,7 +50,7 @@
     </Text>
     <Text>
       <GUID>2143505156</GUID>
-      <Text>公布されたテキスト - 管理</Text>
+      <Text>公布文書 ― 行政</Text>
     </Text>
     <Text>
       <GUID>2143505157</GUID>
@@ -58,11 +58,11 @@
     </Text>
     <Text>
       <GUID>2143505158</GUID>
-      <Text>パンフレット、チラシ、さまざまなポスターで、あなたの町のショーやフェスティバルを宣伝します。</Text>
+      <Text>街の公演や祭りを宣伝するパンフレット、チラシ、各種ポスター。</Text>
     </Text>
     <Text>
       <GUID>2143505159</GUID>
-      <Text>公布されたテキスト - カルチャー</Text>
+      <Text>公布文書 ― 文化</Text>
     </Text>
     <Text>
       <GUID>2143505160</GUID>
@@ -70,11 +70,11 @@
     </Text>
     <Text>
       <GUID>2143505161</GUID>
-      <Text>運用および規制文書、汚染防止および安全対策。</Text>
+      <Text>操業や規制に関する文書、公害防止策、安全対策。</Text>
     </Text>
     <Text>
       <GUID>2143505162</GUID>
-      <Text>公布されたテキスト - 生産性</Text>
+      <Text>公布文書 ― 生産性</Text>
     </Text>
     <Text>
       <GUID>2143505163</GUID>
@@ -82,31 +82,31 @@
     </Text>
     <Text>
       <GUID>2143505164</GUID>
-      <Text>いくつかの禁止措置、衛生的な提案、都市計画、敬虔さ。</Text>
+      <Text>各種の禁止措置、公衆衛生に関する提案、都市計画、信仰に関する施策。</Text>
     </Text>
     <Text>
       <GUID>2143505165</GUID>
-      <Text>公布されたテキスト - 福祉</Text>
+      <Text>公布文書 ― 福祉</Text>
     </Text>
     <Text>
       <GUID>2143505167</GUID>
-      <Text>投票法</Text>
+      <Text>法案の採決</Text>
     </Text>
     <Text>
       <GUID>2143505168</GUID>
-      <Text>最も純粋な形の法律...投票後。</Text>
+      <Text>これぞ立法の真髄……採決が済めば、ですが。</Text>
     </Text>
     <Text>
       <GUID>2143505169</GUID>
-      <Text>議会での投票が完了し、適用される法律が利用可能になりました。</Text>
+      <Text>議会での採決が終わり、可決された法律を施行できるようになりました。</Text>
     </Text>
     <Text>
       <GUID>2143505170</GUID>
-      <Text>部署によって異なる行為</Text>
+      <Text>部局ごとに異なる法律</Text>
     </Text>
     <Text>
       <GUID>2143505171</GUID>
-      <Text>投票法</Text>
+      <Text>法案の採決</Text>
     </Text>
     <Text>
       <GUID>2143505172</GUID>
@@ -114,11 +114,11 @@
     </Text>
     <Text>
       <GUID>2143505173</GUID>
-      <Text>租税及び公序良俗に関する法律</Text>
+      <Text>税制と治安に関する法律</Text>
     </Text>
     <Text>
       <GUID>2143505174</GUID>
-      <Text>法律 - 管理</Text>
+      <Text>法律 ― 行政</Text>
     </Text>
     <Text>
       <GUID>2143505175</GUID>
@@ -126,11 +126,11 @@
     </Text>
     <Text>
       <GUID>2143505176</GUID>
-      <Text>産業、公害防止、または反エコロジー法。</Text>
+      <Text>産業振興や公害防止、あるいは環境保護に逆行する法律。</Text>
     </Text>
     <Text>
       <GUID>2143505177</GUID>
-      <Text>Acts - 生産性</Text>
+      <Text>法律 ― 生産性</Text>
     </Text>
     <Text>
       <GUID>2143505178</GUID>
@@ -142,7 +142,7 @@
     </Text>
     <Text>
       <GUID>2143505180</GUID>
-      <Text>法律 - 福祉</Text>
+      <Text>法律 ― 福祉</Text>
     </Text>
     <Text>
       <GUID>2143505181</GUID>
@@ -154,15 +154,15 @@
     </Text>
     <Text>
       <GUID>2143505183</GUID>
-      <Text>一部の思想家や実業家は、仲間の市民の生活に関与し、改革を提案したいと考えています。</Text>
+      <Text>市民の暮らしに関わり、改革を提案しようとする思想家や実業家たち。</Text>
     </Text>
     <Text>
       <GUID>2143505184</GUID>
-      <Text>この改革は、議会の過半数によって採択され、現在適用可能です。</Text>
+      <Text>改革案が議会の過半数の賛成で可決され、実施できるようになりました。</Text>
     </Text>
     <Text>
       <GUID>2143505185</GUID>
-      <Text>部署によって異なる3つのユニークな改革提案</Text>
+      <Text>部局ごとに異なる固有の改革提案3件</Text>
     </Text>
     <Text>
       <GUID>2143505186</GUID>
@@ -170,11 +170,11 @@
     </Text>
     <Text>
       <GUID>2143505187</GUID>
-      <Text>哲学的なエッセイと異なるイデオロギーの流れ。</Text>
+      <Text>哲学的な論考と、異なる思想の潮流。</Text>
     </Text>
     <Text>
       <GUID>2143505188</GUID>
-      <Text>改革提言 - 行政</Text>
+      <Text>改革提案 ― 行政</Text>
     </Text>
     <Text>
       <GUID>2143505189</GUID>
@@ -182,11 +182,11 @@
     </Text>
     <Text>
       <GUID>2143505190</GUID>
-      <Text>産業革命を促進するための抜本的な変化...他の側面をケチりながら。</Text>
+      <Text>産業革命を推し進める抜本的な改革……ほかの面は切り詰めながら。</Text>
     </Text>
     <Text>
       <GUID>2143505191</GUID>
-      <Text>改革提案 - 生産性</Text>
+      <Text>改革提案 ― 生産性</Text>
     </Text>
     <Text>
       <GUID>2143505192</GUID>
@@ -194,23 +194,23 @@
     </Text>
     <Text>
       <GUID>2143505193</GUID>
-      <Text>これらは意見が分かれる提案であり、そのいくつかは際立っています。</Text>
+      <Text>賛否の分かれる提案の数々。中には、ひときわ異彩を放つものもあります。</Text>
     </Text>
     <Text>
       <GUID>2143505194</GUID>
-      <Text>改革提言 - 福祉</Text>
+      <Text>改革提案 ― 福祉</Text>
     </Text>
     <Text>
       <GUID>2143505195</GUID>
-      <Text>役員を指名する</Text>
+      <Text>人材を任命する</Text>
     </Text>
     <Text>
       <GUID>2143505196</GUID>
-      <Text>指名された人員</Text>
+      <Text>任命された人材</Text>
     </Text>
     <Text>
       <GUID>2143505197</GUID>
-      <Text>部門</Text>
+      <Text>部局</Text>
     </Text>
     <Text>
       <GUID>2143505198</GUID>
@@ -218,15 +218,15 @@
     </Text>
     <Text>
       <GUID>2143505199</GUID>
-      <Text>さまざまな分野で多数の専門家を指名する必要がある場合があります。</Text>
+      <Text>さまざまな分野の専門家を任命することも必要です。</Text>
     </Text>
     <Text>
       <GUID>2143505200</GUID>
-      <Text>これがスペシャリストのリストです</Text>
+      <Text>スペシャリストの一覧です。</Text>
     </Text>
     <Text>
       <GUID>2143505201</GUID>
-      <Text>3人のユニークなスペシャリスト</Text>
+      <Text>固有のスペシャリスト3人</Text>
     </Text>
     <Text>
       <GUID>2143505202</GUID>
@@ -242,15 +242,15 @@
     </Text>
     <Text>
       <GUID>2143505205</GUID>
-      <Text>カスタムオフィス</Text>
+      <Text>税関</Text>
     </Text>
     <Text>
       <GUID>2143505206</GUID>
-      <Text>自分の仕事を知っている港湾職員。</Text>
+      <Text>職務に精通した港湾職員たち。</Text>
     </Text>
     <Text>
       <GUID>2143505207</GUID>
-      <Text>カスタムオフィス</Text>
+      <Text>税関</Text>
     </Text>
     <Text>
       <GUID>2143505208</GUID>
@@ -266,11 +266,11 @@
     </Text>
     <Text>
       <GUID>2143505211</GUID>
-      <Text>あなたはあなたの生産のための専門家を見つけました。</Text>
+      <Text>生産を支える専門家たちが見つかりました。</Text>
     </Text>
     <Text>
       <GUID>2143505212</GUID>
-      <Text>3人のユニークなスペシャリスト</Text>
+      <Text>固有のスペシャリスト3人</Text>
     </Text>
     <Text>
       <GUID>2143505213</GUID>
@@ -278,7 +278,7 @@
     </Text>
     <Text>
       <GUID>2143505214</GUID>
-      <Text>それぞれの分野の農業専門家。あなたの農場は良い手に渡るでしょう。</Text>
+      <Text>それぞれの分野に精通した農業専門家。あなたの農場も、彼らに任せれば安心です。</Text>
     </Text>
     <Text>
       <GUID>2143505215</GUID>
@@ -290,7 +290,7 @@
     </Text>
     <Text>
       <GUID>2143505217</GUID>
-      <Text>あなたを助ける準備ができている大物...または彼らの影響。</Text>
+      <Text>あなたに力を貸してくれる実業界の大物たち。</Text>
     </Text>
     <Text>
       <GUID>2143505218</GUID>
@@ -298,7 +298,7 @@
     </Text>
     <Text>
       <GUID>2143505219</GUID>
-      <Text>細工</Text>
+      <Text>手工業</Text>
     </Text>
     <Text>
       <GUID>2143505220</GUID>
@@ -306,7 +306,7 @@
     </Text>
     <Text>
       <GUID>2143505221</GUID>
-      <Text>細工</Text>
+      <Text>手工業</Text>
     </Text>
     <Text>
       <GUID>2143505222</GUID>
@@ -314,7 +314,7 @@
     </Text>
     <Text>
       <GUID>2143505223</GUID>
-      <Text>鉱業の専門家。土地とその富は彼らにとって秘密ではありません。</Text>
+      <Text>鉱業の専門家。大地とそこに眠る資源を知り尽くしています。</Text>
     </Text>
     <Text>
       <GUID>2143505224</GUID>
@@ -330,15 +330,15 @@
     </Text>
     <Text>
       <GUID>2143505227</GUID>
-      <Text>あなたの町の状況を変えるために何でもする準備ができている人々。</Text>
+      <Text>街の現状を変えるためなら、あらゆる手を尽くす人々。</Text>
     </Text>
     <Text>
       <GUID>2143505228</GUID>
-      <Text>人々から、人々のための人々。</Text>
+      <Text>民衆の中から生まれ、民衆のために働く人々。</Text>
     </Text>
     <Text>
       <GUID>2143505229</GUID>
-      <Text>3人のユニークなスペシャリスト</Text>
+      <Text>固有のスペシャリスト3人</Text>
     </Text>
     <Text>
       <GUID>2143505230</GUID>
@@ -346,7 +346,7 @@
     </Text>
     <Text>
       <GUID>2143505231</GUID>
-      <Text>あなたの人々の文化的発展に関与する人々の一部です。</Text>
+      <Text>市民の文化的な発展を支える人々。</Text>
     </Text>
     <Text>
       <GUID>2143505232</GUID>
@@ -358,7 +358,7 @@
     </Text>
     <Text>
       <GUID>2143505234</GUID>
-      <Text>公務員、教師、その他、毎朝起きる理由を知っている人々。</Text>
+      <Text>公務員や教師など、日々の仕事に使命感を持つ人々。</Text>
     </Text>
     <Text>
       <GUID>2143505235</GUID>
@@ -366,23 +366,23 @@
     </Text>
     <Text>
       <GUID>2143505237</GUID>
-      <Text>法令を選択してください</Text>
+      <Text>会議の種類を選択</Text>
     </Text>
     <Text>
       <GUID>2143505238</GUID>
-      <Text>法令を選択してください</Text>
+      <Text>政治議題</Text>
     </Text>
     <Text>
       <GUID>2143505239</GUID>
-      <Text>可決可能な法令</Text>
+      <Text>獲得可能な政策</Text>
     </Text>
     <Text>
       <GUID>2143505240</GUID>
-      <Text>あなたの政府は以下の法令を可決できました</Text>
+      <Text>政府が活動の成果を報告しました。</Text>
     </Text>
     <Text>
       <GUID>2143505241</GUID>
-      <Text>投票した議員</Text>
+      <Text>投票する議員</Text>
     </Text> 
   </ModOp>
 </ModOps>
