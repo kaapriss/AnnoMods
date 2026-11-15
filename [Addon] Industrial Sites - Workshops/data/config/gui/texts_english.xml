@@ -1,0 +1,226 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2143505667</GUID>
+      <Text>Workshop</Text>
+    </Text>
+    <Text>
+      <GUID>2143505668</GUID>
+      <Text>Offers various equipment and tools to the industry.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505670</GUID>
+      <Text>Slicer</Text>
+    </Text>
+    <Text>
+      <GUID>2143505671</GUID>
+      <Text>Workshop: Slicer</Text>
+    </Text>
+    <Text>
+      <GUID>2143505672</GUID>
+      <Text>Estimated Slicer Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143505673</GUID>
+      <Text>Workshop: Hoist </Text>
+    </Text>
+    <Text>
+      <GUID>2143505674</GUID>
+      <Text>Hoist</Text>
+    </Text>
+    <Text>
+      <GUID>2143505675</GUID>
+      <Text>A tool designed for lifting and lowering heavy loads.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505676</GUID>
+      <Text>A workshop dedicated to the design and assembly of equipment for industry or craftsmanship.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505677</GUID>
+      <Text>A semi-mechanical cutter, particularly appreciated by workers who wish to avoid losing fingers. Works for bread and meat.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505678</GUID>
+      <Text>Estimated Hoist Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143505679</GUID>
+      <Text>Workshop: Harvester</Text>
+    </Text>
+    <Text>
+      <GUID>2143505680</GUID>
+      <Text>Harvester</Text>
+    </Text>
+    <Text>
+      <GUID>2143505681</GUID>
+      <Text>Estimated Harvester Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143505682</GUID>
+      <Text>Recent technological advances have enabled the design of a self-propelled harvester. Unleash the power of these roaring engines and watch as vast fields are devoured by this machine.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505683</GUID>
+      <Text>Workshop: Axe</Text>
+    </Text>
+    <Text>
+      <GUID>2143505684</GUID>
+      <Text>Axe</Text>
+    </Text>
+    <Text>
+      <GUID>2143505685</GUID>
+      <Text>A blade so sharp, particularly useful for clearing a forest.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505686</GUID>
+      <Text>Estimated Axe Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143505687</GUID>
+      <Text>Workshop: Generator</Text>
+    </Text>
+    <Text>
+      <GUID>2143505688</GUID>
+      <Text>Generator</Text>
+    </Text>
+    <Text>
+      <GUID>2143505689</GUID>
+      <Text>Estimated Generator Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143505690</GUID>
+      <Text>Powerful turbines that, with tidal power, will assist in production.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505691</GUID>
+      <Text>All river building</Text>
+    </Text>
+    <Text>
+      <GUID>2143506031</GUID>
+      <Text>Workshop</Text>
+    </Text>
+    <Text>
+      <GUID>2143506029</GUID>
+      <Text>Rural Workshop</Text>
+    </Text>
+    <Text>
+      <GUID>2143506032</GUID>
+      <Text>Here, the air smells of sweat, tanned leather, and old beef fat. This modest yet indispensable workshop echoes with the ceaseless clanging of anvils and the planing of raw timber. Whether it's shoeing a stubborn plough, sharpening tools, or setting fox traps, this is the beating heart of your primary economy.</Text>
+    </Text>
+    <Text>
+      <GUID>2143506033</GUID>
+      <Text>Shears</Text>
+    </Text>
+    <Text>
+      <GUID>2143506034</GUID>
+      <Text>These shears turn the chore of shearing into a highly efficient operation. By preserving wool quality and livestock well-being, they guarantee optimal yield across all your pastures.</Text>
+    </Text>
+    <Text>
+      <GUID>2143506035</GUID>
+      <Text>Workshop: Shears</Text>
+    </Text>
+    <Text>
+      <GUID>2143506037</GUID>
+      <Text>Estimated Shears Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143506039</GUID>
+      <Text>Workshop: Fishing Net</Text>
+    </Text>
+    <Text>
+      <GUID>2143506040</GUID>
+      <Text>Fishing Net</Text>
+    </Text>
+    <Text>
+      <GUID>2143506041</GUID>
+      <Text>An ingenious trap made of tight mesh and flexible wooden hoops, ideal for convincing unwary fish that there is no more enticing exit than your livewell. Complete with its characteristic floats so you never lose track of your upcoming catch. Aquatic wildlife may swim in murky waters, but it will inevitably end up on your citizens' dinner plates!</Text>
+    </Text>
+    <Text>
+      <GUID>2143506042</GUID>
+      <Text>Estimated Fishing Net Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143506043</GUID>
+      <Text>Workshop: Trap</Text>
+    </Text>
+    <Text>
+      <GUID>2143506044</GUID>
+      <Text>Trap</Text>
+    </Text>
+    <Text>
+      <GUID>2143506045</GUID>
+      <Text>A marvel of woodland engineering designed to catch anything with four legs and a bit too much curiosity. Its oiled steel jaw snaps shut with formidable charm, guaranteeing a quick catch for your next fur coat or forest stew.</Text>
+    </Text>
+    <Text>
+      <GUID>2143506046</GUID>
+      <Text>Estimated Trap Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143506047</GUID>
+      <Text>Workshop: Plough</Text>
+    </Text>
+    <Text>
+      <GUID>2143506048</GUID>
+      <Text>Estimated Plough Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143506049</GUID>
+      <Text>Plough</Text>
+    </Text>
+    <Text>
+      <GUID>2143506050</GUID>
+      <Text>The perfect alliance of sturdy oak and forged steel. This revolutionary tool promises to cleave the life-giving earth with formidable efficiency, turning stubborn mud into neatly aligned furrows.</Text>
+    </Text>
+    <Text>
+      <GUID>2143506051</GUID>
+      <Text>Workshop: Treetap</Text>
+    </Text>
+    <Text>
+      <GUID>2143506052</GUID>
+      <Text>Estimated Treetap Sales</Text>
+    </Text>
+    <Text>
+      <GUID>2143506053</GUID>
+      <Text>Treetap</Text>
+    </Text>
+    <Text>
+      <GUID>2143506054</GUID>
+      <Text>A tiny masterpiece of forestry plumbing! Gently driven into the flank of a majestic pine, it extracts precious sap without bruising the tree's dignity. Fainter spirits will see it as plant torture; enlightened engineers, the triumph of agronomical science over nature's whims.</Text>
+    </Text>
+
+    <!-- # Start - Workshops Assets -->
+    <Text>
+      <GUID>2143505864</GUID>
+      <Text>Workshop</Text>
+    </Text>
+    <Text>
+      <GUID>2143505866</GUID>
+      <Text>Bloomery</Text>
+    </Text>
+    <Text>
+      <GUID>2143505867</GUID>
+      <Text>Blacksmith</Text>
+    </Text>
+    <Text>
+      <GUID>2143505868</GUID>
+      <Text>Wheelwright</Text>
+    </Text>
+    <Text>
+      <GUID>2143505869</GUID>
+      <Text>Carpenter</Text>
+    </Text>
+    <Text>
+      <GUID>2143505870</GUID>
+      <Text>Pipe Maker</Text>
+    </Text>
+    <Text>
+      <GUID>2143505871</GUID>
+      <Text>Gramophone Workshop</Text>
+    </Text>
+    <Text>
+      <GUID>2143505872</GUID>
+      <Text>Typewriter Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

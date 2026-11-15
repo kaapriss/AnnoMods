@@ -1,0 +1,40 @@
+{
+	"Version": "2.0.1",
+	"ModID": "industrial_sites_quarries",
+	"IncompatibleIds": null,
+	"ModDependencies": [
+		"shared-ground-textures-industry-jakob"
+	],
+	"LoadAfterIds": [
+		"Taludas_VanillaRiverSlotBuildingsOW",
+		"military_attention"
+	],
+	"Category": {
+		"Chinese": "Addon",
+		"English": "Addon",
+		"French": "Addon",
+		"German": "Addon",
+		"Italian": "Addon",
+		"Japanese": "Addon",
+		"Korean": "Addon",
+		"Polish": "Addon",
+		"Russian": "Addon",
+		"Spanish": "Addon",
+		"Taiwanese": "Addon"
+	},
+	"ModName": {
+		"Chinese": "Industrial Sites - Quarries",
+		"English": "Industrial Sites - Quarries",
+		"French": "Industrial Sites - Quarries",
+		"German": "Industrial Sites - Quarries",
+		"Italian": "Industrial Sites - Quarries",
+		"Japanese": "Industrial Sites - Quarries",
+		"Korean": "Industrial Sites - Quarries",
+		"Polish": "Industrial Sites - Quarries",
+		"Russian": "Industrial Sites - Quarries",
+		"Spanish": "Industrial Sites - Quarries",
+		"Taiwanese": "Industrial Sites - Quarries"
+	},
+	"DLCDependencies": [],
+	"CreatorName": "Kaapriss"
+}

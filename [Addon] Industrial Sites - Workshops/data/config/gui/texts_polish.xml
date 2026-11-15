@@ -1,0 +1,142 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2143505667</GUID>
+      <Text>Warsztaty</Text>
+    </Text>
+    <Text>
+      <GUID>2143505668</GUID>
+      <Text>Oferuje różny sprzęt i narzędzia dla branży.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505670</GUID>
+      <Text>Slicer</Text>
+    </Text>
+    <Text>
+      <GUID>2143505671</GUID>
+      <Text>Warsztat: Slicer</Text>
+    </Text>
+    <Text>
+      <GUID>2143505672</GUID>
+      <Text>Szacowana sprzedaż slicerów</Text>
+    </Text>
+    <Text>
+      <GUID>2143505673</GUID>
+      <Text>Warsztat: Wyciąg</Text>
+    </Text>
+    <Text>
+      <GUID>2143505674</GUID>
+      <Text>Wyciąg</Text>
+    </Text>
+    <Text>
+      <GUID>2143505675</GUID>
+      <Text>Narzędzie zaprojektowane do podnoszenia i opuszczania ciężkich ładunków.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505676</GUID>
+      <Text>Warsztat poświęcony projektowaniu i montażowi sprzętu do przemysłu lub rzemiosła.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505677</GUID>
+      <Text>Półmechaniczna przecinaczka, szczególnie ceniona przez pracowników, którzy chcą uniknąć utraty palców. Działa na chleb i mięso.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505678</GUID>
+      <Text>Szacunkowa sprzedaż podnośników</Text>
+    </Text>
+    <Text>
+      <GUID>2143505679</GUID>
+      <Text>Warsztat: Żniwiarz</Text>
+    </Text>
+    <Text>
+      <GUID>2143505680</GUID>
+      <Text>Kombajn</Text>
+    </Text>
+    <Text>
+      <GUID>2143505681</GUID>
+      <Text>Szacowana sprzedaż Harvesterów</Text>
+    </Text>
+    <Text>
+      <GUID>2143505682</GUID>
+      <Text>Najnowsze osiągnięcia technologiczne umożliwiły zaprojektowanie samobieżnej żniwiarki. Uwolnij moc tych ryczących silników i obserwuj, jak rozległe pola są pożerane przez tę maszynę.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505683</GUID>
+      <Text>Warsztat: Piła tarczowa</Text>
+    </Text>
+    <Text>
+      <GUID>2143505684</GUID>
+      <Text>Piła tarczowa</Text>
+    </Text>
+    <Text>
+      <GUID>2143505685</GUID>
+      <Text>Ostrze tak ostre, szczególnie przydatne do karczowania lasu.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505686</GUID>
+      <Text>Szacunkowa sprzedaż pił tarczowych</Text>
+    </Text>
+    <Text>
+      <GUID>2143505687</GUID>
+      <Text>Warsztat: Generator</Text>
+    </Text>
+    <Text>
+      <GUID>2143505688</GUID>
+      <Text>Generator</Text>
+    </Text>
+    <Text>
+      <GUID>2143505689</GUID>
+      <Text>Szacunkowa sprzedaż generatorów</Text>
+    </Text>
+    <Text>
+      <GUID>2143505690</GUID>
+      <Text>Potężne turbiny, które wraz z napędem pływowym wspomagają produkcję.</Text>
+    </Text>
+    <Text>
+      <GUID>2143505691</GUID>
+      <Text>Cała budowa rzek</Text>
+    </Text>
+    
+    <!-- # Start - Workshops Assets -->
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505864</GUID>
+      <Text>Workshop</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505866</GUID>
+      <Text>Bloomery</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505867</GUID>
+      <Text>Blacksmith</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505868</GUID>
+      <Text>Wheelwright</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505869</GUID>
+      <Text>Carpenter</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505870</GUID>
+      <Text>Pipe Maker</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505871</GUID>
+      <Text>Gramophone Workshop</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>2143505872</GUID>
+      <Text>Typewriter Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

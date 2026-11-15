@@ -1,0 +1,44 @@
+{
+	"Version": "2.1.0",
+	"ModID": "industrial_sites_workshops",
+	"IncompatibleIds": null,
+	"ModDependencies": [
+		"shared_goods_iron",
+		"tools-jakob",
+		"Taludas_neutral_irontower_workforceslider",
+		"ow-hemp-jakob",
+		"ow-ropes-jakob",
+		"ropes-jakob"
+	],
+	"LoadAfterIds": [
+		"Taludas_VanillaRiverSlotBuildingsOW"
+	],
+	"Category": {
+		"Chinese": "Addon",
+		"English": "Addon",
+		"French": "Addon",
+		"German": "Addon",
+		"Italian": "Addon",
+		"Japanese": "Addon",
+		"Korean": "Addon",
+		"Polish": "Addon",
+		"Russian": "Addon",
+		"Spanish": "Addon",
+		"Taiwanese": "Addon"
+	},
+	"ModName": {
+		"Chinese": "Industrial Sites - Workshops",
+		"English": "Industrial Sites - Workshops",
+		"French": "Industrial Sites - Workshops",
+		"German": "Industrial Sites - Workshops",
+		"Italian": "Industrial Sites - Workshops",
+		"Japanese": "Industrial Sites - Workshops",
+		"Korean": "Industrial Sites - Workshops",
+		"Polish": "Industrial Sites - Workshops",
+		"Russian": "Industrial Sites - Workshops",
+		"Spanish": "Industrial Sites - Workshops",
+		"Taiwanese": "Industrial Sites - Workshops"
+	},
+	"DLCDependencies": [],
+	"CreatorName": "Kaapriss"
+}
