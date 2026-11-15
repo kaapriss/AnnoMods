@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.4",
+  "Version": "2.0.5",
   "ModID": "industrial_sites",
   "IncompatibleIds": null,
   "ModDependencies": [
@@ -73,6 +73,5 @@
       "Dependant": "required"
     }
   ],
-  "CreatorName": "Kaapriss",
-  "CreatorContact": "https://github.com/Khorbos/AnnoMods"
+  "CreatorName": "Kaapriss"
 }
