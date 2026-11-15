@@ -86,6 +86,52 @@
         </Standard>
       </Values>
     </Asset>
+    
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506056</GUID>
+          <Name>Description_SmallManufactory</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143505677</GUID>
+          <Name>RecipeDescription_Slicer</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506061</GUID>
+          <Name>RecipeDescription_Stove</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506065</GUID>
+          <Name>RecipeDescription_Grill</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143506069</GUID>
+          <Name>RecipeDescription_Crate</Name>
+        </Standard>
+      </Values>
+    </Asset>
   </ModOp>
 
   <ModOp GUID="25000190" Type="addNextSibling" Path="Values/ConstructionCategory/BuildingList/Item[position()=1][1]">
