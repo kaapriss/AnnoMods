@@ -1,6 +1,6 @@
 {
-	"Version": "1.1.11",
-	"ModID": "khobs_new_world_seat_of_power",
+	"Version": "1.1.12",
+	"ModID": "new_world_seat_of_power",
 	"IncompatibleIds": null,
 	"ModDependencies": null,
 	"Category": {
@@ -57,6 +57,5 @@
 			"Dependant": "partly"
 		}
 	],
-	"CreatorName": "Khobs",
-	"CreatorContact": "https://github.com/Khorbos/AnnoMods"
+	"CreatorName": "Kaapriss"
 }
