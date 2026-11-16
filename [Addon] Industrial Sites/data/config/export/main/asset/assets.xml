@@ -1,3 +1,80 @@
+<!-- 
+2143505404 - Concrete Road - OrnamentalBuilding
+2143505405 - Industrial Gate Large - OrnamentalBuilding
+2143505406 - Industrial Barrier Gate - OrnamentalBuilding
+2143505407 - Industrial Barrier Gate Large - OrnamentalBuilding
+2143505402 - Mod Category Name - Text
+2143505555 - Factory Module Boostable Infotip - Text
+2143505559 - Factory Train Logistic Infotip - Text
+2143505400 - Creative Trigger - Trigger
+2143505920 - Creative Trigger additionnal pools - Trigger
+2143505900 - Workers - Unhide Ornaments - Trigger
+2143505901 - Workers - Unlock Ornaments - Trigger
+2143505902 - Workers - Unhide Freight Station - Trigger
+2143505903 - Workers - Unlock Freight Station - Trigger
+2143505905 - Artisans - Unlock Freight Export Goods - Trigger
+2143505906 - Artisans - Unhide Textile Company - Trigger
+2143505907 - Artisans - Unlock Textile Company and unhide Brick Company - Trigger
+2143505908 - Engineers - Unlock Brick Company - Trigger
+2143505909 - Engineers - Unlock Spectacles Export Freight - Trigger
+2143505910 - Engineers - Unhide Crusher/Sifter/Workshop/Oil Export Freight - Trigger
+2143505911 - Engineers - Unlock Crusher/Sifter/Workshop - Trigger
+2143505913 - Engineers - Unlock Oil Export Freight - Trigger
+2143505914 - Engineers - Unlock Caoutchouc Import Freight  - Trigger
+2143505915 - Engineers - Unhide Steel/Chemical Companies - Trigger
+2143505916 - Engineers - Unlock Steel/Chemical Companies - Trigger
+2143505917 - Engineers - Unhide Chemical Pools - Trigger
+2143505919 - Engineers - Unlock Halfed Factories - Trigger
+2143505921 - Engineers - Unlock Steel Pool - Trigger
+2143505800 - AssetPool Brickworks - AssetPool
+2143505803 - Brickworks - FactoryBuilding7Modulable
+2143505805 - Brickworks Modules - FactoryBuildingModule7
+2143505807 - Clayworks - BuffFactoryModule
+2143505410 - FakeInputBrickResource - Product
+2143505809 - Logistic Depot - Module - Brick - Container - EffectContainer
+2143505810 - Logistic Depot - Module - Brick - Buff - GuildhouseBuff
+2143505609 - advanced clothes chain - ProductionChain
+2143505611 - advanced tapestry chain - ProductionChain
+2143505897 - advanced brick chain - ProductionChain
+2143505898 - advanced wood chain - ProductionChain
+2143505403 - Industrial Sites Menu - ConstructionCategory
+2143505804 - Brickworks Description - Text
+2143505806 - Brick Kiln Description - Text
+2143505808 - Clayworks Description - Text
+2143505811 - Brickworks Industry Module - Text
+2143506025 - Clayworks - Infotip - InfoTip
+2143505599 - Textile Industry Module - Text
+2143505834 - Textile Industry - Description - Text
+2143505620 - Textile Module Description - Text
+2143505856 - Knitter Workshop - Gameplay Description - Text
+2143505859 - Tapestry Workshop - Gameplay Description - Text
+2143506021 - Wood Mill Lumberjack - Infotip - InfoTip
+2143506022 - Wood Mill Lumberjack - Gameplay Description - Text
+2143506023 - Woodworks Industry Module - Text
+2143506024 - Woodworks Factories Description - Text
+2143505594 - assetpool modular textile - AssetPool
+2143505631 - Industrial Knitter - FactoryBuilding7
+2143505634 - Industrial Tapestry - FactoryBuilding7
+2143505854 - Knitter Module - BuffFactoryModule
+2143505857 - Tapestry Module - BuffFactoryModule
+2143505644 - All Weavers - ItemEffectTargetPool
+2143505855 - Module - Cloth - GuildhouseBuff
+2143505858 - Module - Tapestry - GuildhouseBuff
+2143505929 - intermediate moderate 3.0 - 1 - Workers Industry Modules - Trigger
+2143505930 - intermediate moderate 3.0 - 1 - Workers Industry Modules - Trigger
+2143505899 - assetpool advanced wood - AssetPool
+2143506019 - Wood Mill - FactoryBuilding7Modulable
+2143506020 - Wood Mill Modules - FactoryBuildingModule7
+2143506010 - Steam Boiler - BuffFactoryModule
+2143506018 - Steam boiler chain - ProductionChain
+2143506012 - Steam Boiler Buff - GuildhouseBuff
+2143506013 - Steam Boiler Buff Explanation Description - Text
+2143506011 - Steam Boiler Description - Text
+2143506014 - Steam Possible Text - Text
+2143506015 - Steam Explanation Text - Text
+2143506016 - Creative Trigger - Trigger
+2143506017 - Trigger - Trigger 
+-->
 <ModOps>
   <!-- Include Region -->
   <Include File="./tweaks.include.xml" />
