@@ -105,7 +105,7 @@
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143505882</GUID>
+          <GUID>2143506074</GUID>
           <Name>@ 1 Artisans</Name>
         </Standard>
         <Trigger>
@@ -147,7 +147,7 @@
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143505883</GUID>
+          <GUID>2143506075</GUID>
           <Name>@ 900 Artisans</Name>
         </Standard>
         <Trigger>
@@ -192,7 +192,7 @@
       <Template>Trigger</Template>
       <Values>
         <Standard>
-          <GUID>2143505884</GUID>
+          <GUID>2143506076</GUID>
           <Name>@ 1 Engineer</Name>
         </Standard>
         <Trigger>
