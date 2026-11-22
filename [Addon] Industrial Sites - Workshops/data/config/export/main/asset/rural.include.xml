@@ -1996,4 +1996,26 @@
       <GUID>2143506051</GUID>
     </Item>
   </ModOp>
+
+  <Group Condition="#Cattle Needs to be butchered">
+    <ModOp GUID="2143506046" Type="replace" Path="Values/FactoryUpgrade/AdditionalOutput">
+      <AdditionalOutput>
+        <Item>
+          <Product>1010199</Product>
+          <AdditionalOutputCycle>4</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Product>112705</Product>
+          <AdditionalOutputCycle>6</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Product>1010193</Product>
+          <AdditionalOutputCycle>8</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+      </AdditionalOutput>
+    </ModOp>
+  </Group>
 </ModOps>
