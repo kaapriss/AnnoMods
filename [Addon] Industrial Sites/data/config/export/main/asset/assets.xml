@@ -5,7 +5,6 @@
 2143505407 - Industrial Barrier Gate Large - OrnamentalBuilding
 2143505402 - Mod Category Name - Text
 2143505555 - Factory Module Boostable Infotip - Text
-2143505559 - Factory Train Logistic Infotip - Text
 2143505400 - Creative Trigger - Trigger
 2143505920 - Creative Trigger additionnal pools - Trigger
 2143505900 - Workers - Unhide Ornaments - Trigger
@@ -656,65 +655,6 @@
     </ModOp>
   </Group>
 
-  <!-- START - Adding buildings to pools -->
-  <ModOp Type="add" GUID="368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-    <Item>
-      <GUID>2143505412</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505414</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505417</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505418</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505419</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505420</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505421</GUID>
-    </Item>
-    <Item>
-      <GUID>2143505422</GUID>
-    </Item>
-  </ModOp>
-  <!-- END - Adding buildings to pools -->
-
-  <!-- START - Adding working conditions -->
-  <ModOp Type="add" GUID="25000087" Path="/Values/WorkforceMenu/BoostableFactories" >
-    <Item>
-      <Factory>2143505417</Factory>
-    </Item>
-    <Item>
-      <Factory>2143505418</Factory>
-    </Item>
-    <Item>
-      <Factory>2143505419</Factory>
-    </Item>
-    <Item>
-      <Factory>2143505420</Factory>
-    </Item>
-    <Item>
-      <Factory>2143505421</Factory>
-    </Item>
-    <Item>
-      <Factory>2143505422</Factory>
-    </Item>
-  </ModOp>
-  <!-- END - Adding working conditions -->
-
-  <!-- Freight Station integration -->
-  <ModOp GUID="25000190" Type="addNextSibling" Path="Values/ConstructionCategory/BuildingList/Item[Building='1010360'][last()]">
-    <Item>
-      <Building>2143505416</Building>
-    </Item>
-  </ModOp>
-
   <ModOp GUID="25000192" Type="addNextSibling">
     <Asset>
       <Template>Text</Template>
@@ -732,16 +672,6 @@
           <GUID>2143505555</GUID>
           <Name>Factory Module Boostable Infotip</Name>
           <IconFilename>data/ui/jakob/icon_modular_factory_infotip.png</IconFilename>
-        </Standard>
-      </Values>
-    </Asset>
-    <Asset>
-      <Template>Text</Template>
-      <Values>
-        <Standard>
-          <GUID>2143505559</GUID>
-          <Name>Factory Train Logistic Infotip</Name>
-          <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_preorder_train_01.png</IconFilename>
         </Standard>
       </Values>
     </Asset>

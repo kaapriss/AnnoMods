@@ -1,4 +1,5 @@
 <!-- 
+2143505402 - Mod Category Name - Text
 2143505501 - Ore Depot Description - Text
 2143505508 - Blast Furnace Description - Text
 2143505510 - Blast Furnace Module Description - Text
@@ -6,6 +7,7 @@
 2143505505 - Steel Sheet Warehouse Description - Text
 2143505511 - Blast Furnace Workshop - Gameplay Description - Text
 2143505512 - Steel Foundry Description - Text
+2143505559 - Factory Train Logistic Infotip - Text
 2143505584 - Industrial Sites - Industry w Train - ConstructionCategory
 2143505717 - Chemical Industry Module - Text
 2143505698 - Chemical Plant InfoDescription - Text
@@ -98,6 +100,66 @@
   <Include File="products.include.xml" />
   <Include File="pools.include.xml" />
   <Include File="unlock.include.xml" />
+
+  <!-- START - Adding buildings to pools -->
+  <ModOp Type="add" GUID="368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <Item>
+      <GUID>2143505412</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505414</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505417</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505418</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505419</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505420</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505421</GUID>
+    </Item>
+    <Item>
+      <GUID>2143505422</GUID>
+    </Item>
+  </ModOp>
+  <!-- END - Adding buildings to pools -->
+
+  <!-- START - Adding working conditions -->
+  <ModOp Type="add" GUID="25000087" Path="/Values/WorkforceMenu/BoostableFactories" >
+    <Item>
+      <Factory>2143505417</Factory>
+    </Item>
+    <Item>
+      <Factory>2143505418</Factory>
+    </Item>
+    <Item>
+      <Factory>2143505419</Factory>
+    </Item>
+    <Item>
+      <Factory>2143505420</Factory>
+    </Item>
+    <Item>
+      <Factory>2143505421</Factory>
+    </Item>
+    <Item>
+      <Factory>2143505422</Factory>
+    </Item>
+  </ModOp>
+  <!-- END - Adding working conditions -->
+
+  <!-- Freight Station integration -->
+  <ModOp GUID="25000190" Type="addNextSibling" Path="Values/ConstructionCategory/BuildingList/Item[Building='1010360'][last()]">
+    <Item>
+      <Building>2143505416</Building>
+    </Item>
+  </ModOp>
+
   <!-- START - Texts -->
   <ModOp GUID="25000192" Type="addNextSibling">
     <Asset>
@@ -171,6 +233,16 @@
         <Text>
           <TextOverride>11143</TextOverride>
         </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>2143505559</GUID>
+          <Name>Factory Train Logistic Infotip</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_preorder_train_01.png</IconFilename>
+        </Standard>
       </Values>
     </Asset>
   </ModOp>
