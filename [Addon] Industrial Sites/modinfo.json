@@ -1,13 +1,13 @@
 {
-  "Version": "2.0.5",
+  "Version": "2.0.6",
   "ModID": "industrial_sites",
   "IncompatibleIds": null,
   "ModDependencies": [
     "shared_ui_change_kurila",
     "shared_strategic_harbour",
     "shared-ground-textures-industry-jakob",
-    "industrial_site_modular_industries",
-    "shared_general_modules_kurila"
+    "shared_general_modules_kurila",
+    "shared-steam-boiler"
   ],
   "LoadAfterIds": [
     "shared_strategic_harbour",
@@ -30,17 +30,17 @@
     "Taiwanese": "Addon"
   },
   "ModName": {
-    "Chinese": "Industrial Sites",
-    "English": "Industrial Sites",
-    "French": "Industrial Sites",
-    "German": "Industrial Sites",
-    "Italian": "Industrial Sites",
-    "Japanese": "Industrial Sites",
-    "Korean": "Industrial Sites",
-    "Polish": "Industrial Sites",
-    "Russian": "Industrial Sites",
-    "Spanish": "Industrial Sites",
-    "Taiwanese": "Industrial Sites"
+    "Chinese": "Industrial Sites - Modular Industries",
+    "English": "Industrial Sites - Modular Industries",
+    "French": "Industrial Sites - Modular Industries",
+    "German": "Industrial Sites - Modular Industries",
+    "Italian": "Industrial Sites - Modular Industries",
+    "Japanese": "Industrial Sites - Modular Industries",
+    "Korean": "Industrial Sites - Modular Industries",
+    "Polish": "Industrial Sites - Modular Industries",
+    "Russian": "Industrial Sites - Modular Industries",
+    "Spanish": "Industrial Sites - Modular Industries",
+    "Taiwanese": "Industrial Sites - Modular Industries"
   },
   "Description": {
     "Chinese": "file::README.md",
