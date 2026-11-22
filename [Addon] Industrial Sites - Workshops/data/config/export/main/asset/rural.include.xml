@@ -37,11 +37,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -141,11 +139,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -221,7 +217,7 @@
               <StorageAmount>20</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>60</CycleTime>
+          <CycleTime>30</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -313,11 +309,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -398,7 +392,7 @@
               <StorageAmount>10</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>180</CycleTime>
+          <CycleTime>90</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -493,11 +487,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -573,7 +565,7 @@
               <StorageAmount>10</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>180</CycleTime>
+          <CycleTime>90</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -665,11 +657,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -745,7 +735,7 @@
               <StorageAmount>10</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>180</CycleTime>
+          <CycleTime>90</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -837,11 +827,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -917,7 +905,7 @@
               <StorageAmount>10</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>180</CycleTime>
+          <CycleTime>90</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -1009,11 +997,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -1094,7 +1080,7 @@
               <StorageAmount>10</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>180</CycleTime>
+          <CycleTime>90</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -1186,11 +1172,9 @@
             </Item>
             <Item>
               <Ingredient>1010207</Ingredient>
-              <Amount>10</Amount>
             </Item>
             <Item>
               <Ingredient>1010202</Ingredient>
-              <Amount>10</Amount>
             </Item>
           </Costs>
         </Cost>
@@ -1271,7 +1255,7 @@
               <StorageAmount>20</StorageAmount>
             </Item>
           </FactoryInputs>
-          <CycleTime>120</CycleTime>
+          <CycleTime>60</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>85</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -1679,16 +1663,16 @@
         </ItemEffect>
         <FactoryUpgrade>
           <ProductivityUpgrade>
-            <Value>50</Value>
+            <Value>15</Value>
             <Percental>1</Percental>
           </ProductivityUpgrade>
           <NeededAreaPercentUpgrade>
-            <Value>-30</Value>
+            <Value>-20</Value>
           </NeededAreaPercentUpgrade>
           <AdditionalOutput>
             <Item>
               <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-              <AdditionalOutputCycle>2</AdditionalOutputCycle>
+              <AdditionalOutputCycle>3</AdditionalOutputCycle>
               <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
@@ -1728,7 +1712,7 @@
             <Item>
               <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
               <AdditionalOutputCycle>1</AdditionalOutputCycle>
-              <Amount>2</Amount>
+              <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
         </FactoryUpgrade>
@@ -1839,7 +1823,12 @@
             </Item>
             <Item>
 					    <Product>1010193</Product>
-              <AdditionalOutputCycle>3</AdditionalOutputCycle>
+              <AdditionalOutputCycle>4</AdditionalOutputCycle>
+              <Amount>1</Amount>
+            </Item>
+            <Item>
+					    <Product>112705</Product>
+              <AdditionalOutputCycle>6</AdditionalOutputCycle>
               <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
@@ -1932,16 +1921,12 @@
           <AdditionalOutput>
             <Item>
 					    <Product>135086</Product>
-              <AdditionalOutputCycle>1</AdditionalOutputCycle>
+              <AdditionalOutputCycle>4</AdditionalOutputCycle>
               <Amount>1</Amount>
             </Item>
           </AdditionalOutput>
         </FactoryUpgrade>
         <BuildingUpgrade>
-          <WorkforceAmountUpgrade>
-            <Value>-10</Value>
-            <Percental>1</Percental>
-          </WorkforceAmountUpgrade>
           <BuildingUpgrade>
             <ReplacingWorkforce>1010117</ReplacingWorkforce>
           </BuildingUpgrade>
@@ -2011,4 +1996,26 @@
       <GUID>2143506051</GUID>
     </Item>
   </ModOp>
+
+  <Group Condition="#Cattle Needs to be butchered">
+    <ModOp GUID="2143506046" Type="replace" Path="Values/FactoryUpgrade/AdditionalOutput">
+      <AdditionalOutput>
+        <Item>
+          <Product>1010199</Product>
+          <AdditionalOutputCycle>4</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Product>112705</Product>
+          <AdditionalOutputCycle>6</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Product>1010193</Product>
+          <AdditionalOutputCycle>8</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+      </AdditionalOutput>
+    </ModOp>
+  </Group>
 </ModOps>

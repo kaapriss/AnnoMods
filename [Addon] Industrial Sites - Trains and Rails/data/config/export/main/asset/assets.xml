@@ -1,3 +1,92 @@
+<!-- 
+2143505501 - Ore Depot Description - Text
+2143505508 - Blast Furnace Description - Text
+2143505510 - Blast Furnace Module Description - Text
+2143505582 - Steelworks Industry Module - Text
+2143505505 - Steel Sheet Warehouse Description - Text
+2143505511 - Blast Furnace Workshop - Gameplay Description - Text
+2143505512 - Steel Foundry Description - Text
+2143505584 - Industrial Sites - Industry w Train - ConstructionCategory
+2143505717 - Chemical Industry Module - Text
+2143505698 - Chemical Plant InfoDescription - Text
+2143505695 - Alkaline Recipe Description - Text
+2143505697 - Acidic Recipe Description - Text
+2143506123 - Solvant Recipe Description - Text
+2143506124 - Petrochemicals Recipe Description - Text
+2143505715 - Chemical Module Description - Text
+2143506125 - Chemical Menu - ConstructionCategory
+2143505502 - Depot - Module - Ore - Container - EffectContainer
+2143505503 - Depot - Module - Ore - Buff - GuildhouseBuff
+2143505506 - Logistic Depot - @100 - Buff - GuildhouseBuff
+2143505895 - advanced steel chain - ProductionChain
+2143505887 - sulfuric acid chain - ProductionChain
+2143505888 - celluloid ow chain - ProductionChain
+2143505889 - lacquer ow chain - ProductionChain
+2143505890 - compound chain - ProductionChain
+2143505893 - sodium carbonate chain - ProductionChain
+2143505894 - ethanol chain - ProductionChain
+2143505408 - Steel Company - IndustrialCompanyWithItems
+2143505692 - Chemical Society - IndustrialCompanyWithItems
+2143505507 - Blast Furnace - Factory - FactoryBuilding7
+2143505564 - Steel Foundry - Factory - FactoryBuilding7
+2143505563 - IsMainFactory_Fake: Pig Iron - FactoryBuilding7
+2143505700 - Chemical Plant - Blank - FactoryBuilding7
+2143505694 - Chemical Plant - Alcaline - FactoryBuilding7
+2143506111 - Chemical Plant - Acidic - FactoryBuilding7
+2143505883 - Chemical Plant - Solvant - FactoryBuilding7
+2143505884 - Chemical Plant - Petrochemicals - FactoryBuilding7
+2143505886 - Chemical Plant - Sulfuric Acid - FactoryBuilding7
+2143505891 - Chemical Plant - Sodium Carbonate - FactoryBuilding7
+2143505711 - Chemical Plant - Celluloid - FactoryBuilding7
+2143505713 - Chemical Plant - Ethanol - FactoryBuilding7
+2143505703 - shampoo_factory - ChemicalFactorySmall
+2143505705 - lemonade_factory - ChemicalFactorySmall
+2143505707 - souvenir_factory - ChemicalFactorySmall
+2143505721 - soda_factory - ChemicalFactorySmall
+2143505500 - Depot - Module - Ore - BuffFactoryModule
+2143505509 - Blast Furnace - Module - BuffFactoryModule
+2143505714 - Chemical_Plant_Module - ChemicalModule
+2143506122 - Chemical_Complex_Module - ChemicalModule
+2143505504 - assetpool advanced steel - AssetPool
+2143505693 - AssetPool Chemical Company - AssetPool
+2143506118 - AssetPool Chemical Ethanol - AssetPool
+2143506119 - AssetPool Chemical Compound - AssetPool
+2143506120 - AssetPool Chemical Soda - AssetPool
+2143506117 - AssetPool Sulfuric Acid - AssetPool
+2143506121 - AssetPool Half Production Factory - AssetPool
+2143505896 - AssetPool Celluloid - AssetPool
+2143505716 - All chemical plants sites - ItemEffectTargetPool
+2143505557 - Pig Iron - Product
+2143505553 - FakeInputOreResource - Product
+2143505892 - Sodium Carbonate - Product
+2143505701 - RecipeList_Chemical - RecipeList
+2143505708 - Recipe_LacquerColor - Recipe
+2143505710 - Recipe_Celluloid - Recipe
+2143505712 - Recipe_Ethanol - Recipe
+2143506106 - RecipeList_Chemicals - RecipeList
+2143505723 - Alkaline - Recipe
+2143506107 - Acidic - Recipe
+2143505881 - Solvant - Recipe
+2143505882 - Petrochemicals - Recipe
+2143505565 - LNG Tanker (Trade - Chemical) - TradeShip
+2143505566 - Ship Description - Text
+2143505925 - intermediate moderate 4.0 - 1 - Steel - Trigger
+2143505928 - intermediate moderate 4.1 - 500 - Steel - Trigger
+2143505926 - intermediate moderate 4.0 - 1 - Chemicals - Trigger
+2143505927 - intermediate moderate 4.1 - 500 - Chemicals - Trigger
+2143505422 - Import Freight Caoutchouc - FreightDepotModule
+2143505412 - Freight Station - FreightStation
+2143505414 - Freight Office - FreightDepot
+2143505416 - Freight Station menu - ConstructionCategory
+2143505417 - Export Freight Oil - FreightDepotModule
+2143505418 - Export Freight Canned Food - FreightDepotModule
+2143505419 - Export Freight Beer - FreightDepotModule
+2143505420 - Export Freight Coal - FreightDepotModule
+2143505421 - Export Freight Spectacles - FreightDepotModule
+2143505699 - Chemical Compound - Product
+2143505554 - Chemicals - Barrel - Product
+2143505885 - Sulfuric Acid - Product 
+-->
 <ModOps>
   <Include File="company.include.xml" />
   <Include File="recipes.include.xml" />

@@ -1,3 +1,55 @@
+<!-- 
+2143505515 - AssetPool Crusher - AssetPool
+2143505517 - Minerals Extraction - InfoDescription - Text
+2143505521 - Crusher RecipeListDescription - Text
+2143505523 - Recipe_Iron RecipeDescriptionText - Text
+2143505552 - Recipe_Coal RecipeDescriptionText - Text
+2143505558 - Recipe_Copper RecipeDescriptionText - Text
+2143505560 - Recipe_Zinc RecipeDescriptionText - Text
+2143505561 - Recipe_Gold RecipeDescriptionText - Text
+2143505520 - RecipeList_Crusher - RecipeList
+2143505524 - Recipe_Iron - Recipe
+2143505529 - Recipe_Coal - Recipe
+2143505525 - Recipe_Copper - Recipe
+2143505527 - Recipe_Zinc - Recipe
+2143505531 - Recipe_Gold - Recipe
+2143505516 - Minerals Extraction - GuildhouseBuff
+2143505518 - Crusher: Blank - Multifactory
+2143505522 - Crusher: Iron - Multifactory
+2143505530 - Crusher: Coal - Multifactory
+2143505526 - Crusher: Copper - Multifactory
+2143505528 - Crusher: Zinc - Multifactory
+2143505532 - Crusher: Gold - Multifactory
+2143505865 - Quarry Menu - ConstructionCategory
+2143505812 - Large Clay Pit - FactoryBuilding7
+2143505861 - Sand Quarry - FactoryBuilding7
+2143505862 - Copper Quarry - FactoryBuilding7
+2143505863 - Zinc Quarry - FactoryBuilding7
+2143505535 - AssetPool Sifter - AssetPool
+2143505517 - Sifter RecipeListDescription - Text
+2143505541 - Recipe_Iron RecipeDescriptionText - Text
+2143505544 - Recipe_Limestone RecipeDescriptionText - Text
+2143505562 - Recipe_Copper RecipeDescriptionText - Text
+2143505567 - Recipe_Zinc RecipeDescriptionText - Text
+2143505568 - Recipe_Gold RecipeDescriptionText - Text
+2143505538 - RecipeList_Sifter - RecipeList
+2143505540 - Recipe_Iron - Recipe
+2143505543 - Recipe_Limestone - Recipe
+2143505548 - Recipe_Copper - Recipe
+2143505550 - Recipe_Zinc - Recipe
+2143505546 - Recipe_Gold - Recipe
+2143505536 - Sifter: Blank - Multifactory
+2143505542 - Sifter: Iron - Multifactory
+2143505545 - Sifter: Limestone - Multifactory
+2143505547 - Sifter: Gold - Multifactory
+2143505549 - Sifter: Copper - Multifactory
+2143505551 - Sifter: Zinc - Multifactory
+2143505880 - Creative mode - Trigger
+2143505881 - @ 150 Workers - Trigger
+2143506074 - @ 1 Artisans - Trigger
+2143506075 - @ 900 Artisans - Trigger
+2143506076 - @ 1 Engineer - Trigger
+-->
 <ModOps>
   <Include File="./crusher.include.xml" />
   <Include File="./sifter.include.xml" />
