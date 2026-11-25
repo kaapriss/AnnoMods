@@ -38,7 +38,7 @@
     </Text>
     <Text>
       <GUID>2143505518</GUID>
-      <Text>Concasseur : Blank</Text>
+      <Text>Concasseur</Text>
     </Text>
     <Text>
       <GUID>2143505522</GUID>
@@ -65,24 +65,20 @@
       <Text>Attention à ne pas se pencher entièrement au-dessus du broyeur !</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505552</GUID>
-      <Text>This machine doesn't do nuance. It crushes the hardest geodes to extract this precious black sediment. It might not be as sparkling as a diamond, but it’s still incredibly useful in your furnaces and factories.</Text>
+      <Text>Cette machine ne fait pas dans la subtilité. Elle broie les géodes les plus dures pour en extraire ce précieux sédiment noir. Il n'est peut-être pas aussi étincelant qu'un diamant, mais il reste incroyablement utile dans vos fours et vos usines.</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505558</GUID>
-      <Text>Beneath its rough stone coating hides an incomparable reddish glow. Your workers will surely complain about the crusher's vibrations.</Text>
+      <Text>Sous son revêtement de pierre brute se cache une lueur rougeâtre incomparable. Vos employés ne manqueront pas de se plaindre des vibrations du concasseur.</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505560</GUID>
-      <Text>Smashing, breaking, crushing to pieces... When the debris reveals this metal, essential for brass production. Your rivals will see only rubble; you will see longevity.</Text>
+      <Text>Écraser, briser, réduire en miettes… Lorsque les débris laissent apparaître ce métal, indispensable à la fabrication du laiton. Vos concurrents ne verront que des décombres ; vous, vous y verrez la longévité.</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505561</GUID>
-      <Text>Opening a geode is like opening a box of chocolates, with the added risk of getting your fingers caught in a gear. But what a divine surprise when the rock splits to reveal veins of the purest metal! Enough to make your investors' eyes shine...</Text>
+      <Text>Ouvrir une géode, c'est comme ouvrir une boîte de chocolats, avec le risque supplémentaire de se coincer les doigts dans un engrenage. Mais quelle divine surprise lorsque la roche se fend pour révéler des veines de métal à l'état pur ! De quoi faire briller les yeux de vos investisseurs....</Text>
     </Text>
   </ModOp>
     <ModOp Type="add" Path="/TextExport/Texts">
@@ -116,7 +112,7 @@
     </Text>
     <Text>
       <GUID>2143505536</GUID>
-      <Text>Sifter : Blanc</Text>
+      <Text>Tamis</Text>
     </Text>
     <Text>
       <GUID>2143505542</GUID>
@@ -150,44 +146,39 @@
     <Text>
       <!-- TODO translation -->
       <GUID>2143505562</GUID>
-      <Text>The patience of a saint and an oscillating machine—that is the secret to flushing out the copper flakes nestled in riverbeds.</Text>
+      <Text>La patience d'un saint et une machine oscillante : voilà le secret pour extraire les paillettes de cuivre nichées au fond des rivières.</Text>
     </Text>
     <Text>
       <!-- TODO translation -->
       <GUID>2143505567</GUID>
-      <Text>The sand slips, the water flows, and gravity does the rest. This delicate process catches the zinc sediments that nature has patiently polished over the centuries.</Text>
+      <Text>Le sable glisse, l'eau s'écoule, et la gravité fait le reste. Ce processus délicat permet de recueillir les sédiments de zinc que la nature a patiemment polis au fil des siècles.</Text>
     </Text>
     <Text>
       <!-- TODO translation -->
       <GUID>2143505568</GUID>
-      <Text>Forget the lonely old prospector with his pan by the water's edge. Here, we sift alluvial sand on a grand scale. When the sun hits the sieve and makes those few nuggets shimmer, you quickly forget the dust in your eyes.</Text>
+      <Text>Oubliez le vieux chercheur d'or solitaire avec sa batée au bord de l'eau. Ici, on tamise le sable alluvial à grande échelle. Quand le soleil frappe le tamis et fait scintiller ces quelques pépites, on oublie vite la poussière qui nous pique les yeux.</Text>
     </Text> 
   
     <!-- # Start - Quarries Assets -->
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505865</GUID>
-      <Text>Quarries/Mines</Text>
+      <Text>Carrières/Mines</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505812</GUID>
-      <Text>Large Clay Pit</Text>
+      <Text>Carrière d'argile</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505861</GUID>
-      <Text>Sand Quarry</Text>
+      <Text>Carrière de sable</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505862</GUID>
-      <Text>Copper Quarry</Text>
+      <Text>Carrière de cuivre</Text>
     </Text>
     <Text>
-      <!-- TODO translation -->
       <GUID>2143505863</GUID>
-      <Text>Zinc Quarry</Text>
+      <Text>Carrière de zinc</Text>
     </Text>
   </ModOp>
 </ModOps>
