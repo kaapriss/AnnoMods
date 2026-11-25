@@ -113,42 +113,6 @@
           <TransporterCountMax>2</TransporterCountMax>
           <TransporterAsset>120028</TransporterAsset>
         </LogisticNode>
-        <!-- <BuffFactory>
-          <ProductionBuffs>
-            <Item>
-              <ProductivityBuff>2143505814</ProductivityBuff>
-              <ProductivityThresholdUp>2.0</ProductivityThresholdUp>
-              <ProductivityThresholdDown>0.9</ProductivityThresholdDown>
-            </Item>
-            <Item>
-              <ProductivityBuff>2143505815</ProductivityBuff>
-              <ProductivityThresholdUp>3.0</ProductivityThresholdUp>
-              <ProductivityThresholdDown>1.9</ProductivityThresholdDown>
-            </Item>
-            <Item>
-              <ProductivityBuff>2143505816</ProductivityBuff>
-              <ProductivityThresholdUp>4.0</ProductivityThresholdUp>
-              <ProductivityThresholdDown>2.99</ProductivityThresholdDown>
-            </Item>
-            <Item>
-              <ProductivityBuff>2143505817</ProductivityBuff>
-              <ProductivityThresholdUp>5.0</ProductivityThresholdUp>
-              <ProductivityThresholdDown>3.99</ProductivityThresholdDown>
-            </Item>
-            <Item>
-              <ProductivityBuff>2143505818</ProductivityBuff>
-              <ProductivityThresholdUp>6.0</ProductivityThresholdUp>
-              <ProductivityThresholdDown>4.99</ProductivityThresholdDown>
-            </Item>
-            <Item>
-              <ProductivityBuff>2143505819</ProductivityBuff>
-              <ProductivityThresholdUp>6.99</ProductivityThresholdUp>
-              <ProductivityThresholdDown>5.99</ProductivityThresholdDown>
-            </Item>
-          </ProductionBuffs>
-          <ProductionBuffScope>Radius</ProductionBuffScope>
-          <ProductionBuffDistance>20</ProductionBuffDistance>
-        </BuffFactory> -->
         <Maintenance>
           <Maintenances>
             <Item>
@@ -181,6 +145,7 @@
           </FertilizerModuleData>
 					<ModuleBuildRadius>20</ModuleBuildRadius>
 					<ModulesRequiredForFullProductivity>1</ModulesRequiredForFullProductivity>
+			    <ImplicitProductivityModules>0</ImplicitProductivityModules>
         </ModuleOwner>
       </Values>
     </Asset>
@@ -196,7 +161,7 @@
           <GUID>2143505805</GUID>
           <Name>Brickworks Modules</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/icon_city_ornament_medium.png</IconFilename>
-          <InfoDescription>2143505806</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
 					<BuildingCategoryName>2143505811</BuildingCategoryName>
@@ -394,7 +359,7 @@
           <GUID>2143505807</GUID>
           <Name>Clayworks</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/icon_clay.png</IconFilename>
-          <InfoDescription>2143505808</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <BuildingType>BuildingModule</BuildingType>
@@ -509,7 +474,7 @@
         <Standard>
           <GUID>2143505410</GUID>
           <Name>FakeInputBrickResource</Name>
-          <IconFilename>data/ui/2kimages/main/3dicons/icon_logistic_depot.png</IconFilename>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_clay.png</IconFilename>
         </Standard>
         <Locked />
         <Product>
@@ -531,8 +496,8 @@
       <Values>
         <Standard>
           <GUID>2143505809</GUID>
-          <Name>Logistic Depot - Module - Brick - Container</Name>
-          <IconFilename>data/ui/2kimages/main/3dicons/icon_logistic_depot.png</IconFilename>
+          <Name>Module - Brick - Container</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_clay.png</IconFilename>
         </Standard>
         <ItemEffect />
         <EffectContainer>
@@ -552,8 +517,8 @@
       <Values>
         <Standard>
           <GUID>2143505810</GUID>
-          <Name>Logistic Depot - Module - Brick - Buff</Name>
-          <IconFilename>data/ui/2kimages/main/3dicons/icon_logistic_depot.png</IconFilename>
+          <Name>Module - Brick - Buff</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_clay.png</IconFilename>
         </Standard>
         <ItemEffect/>
         <FactoryUpgrade>

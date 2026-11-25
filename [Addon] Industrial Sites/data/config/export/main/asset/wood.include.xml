@@ -41,7 +41,7 @@
           <GUID>2143506019</GUID>
           <Name>Wood Mill</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/icon_woodmill.png</IconFilename>
-          <InfoDescription>2143506024</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <BuildingCategoryName>2143505402</BuildingCategoryName>
@@ -153,7 +153,7 @@
           <GUID>2143506020</GUID>
           <Name>Wood Mill Modules</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/icon_wood_log.png</IconFilename>
-          <InfoDescription>2143506022</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
 			    <BuildModeRandomRotation>90</BuildModeRandomRotation>

@@ -8,11 +8,11 @@
           <GUID>2143505507</GUID>
           <Name>Blast Furnace - Factory</Name>
           <IconFilename>data\ui\2kimages\main\3dicons\khobs\bulk_goods\icon_pig_iron.png</IconFilename>
-          <InfoDescription>2143505508</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <SecondPartyRelevant>0</SecondPartyRelevant>
-          <BuildingCategoryName>2143505402</BuildingCategoryName>
+          <BuildingCategoryName>100000</BuildingCategoryName>
         </Building>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -242,11 +242,11 @@
           <GUID>2143505564</GUID>
           <Name>Steel Foundry - Factory</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/icon_steel.png</IconFilename>
-          <InfoDescription>2143505512</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <SecondPartyRelevant>0</SecondPartyRelevant>
-          <BuildingCategoryName>2143505402</BuildingCategoryName>
+          <BuildingCategoryName>100000</BuildingCategoryName>
         </Building>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -422,14 +422,14 @@
           <GUID>2143505700</GUID>
           <Name>Chemical Plant - Blank</Name>
           <IconFilename>data/ui/icon_chemical.png</IconFilename>
-          <InfoDescription>2143505698</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
 				<Building>
 					<BuildModeRandomRotation>180</BuildModeRandomRotation>
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Blocking>
@@ -514,7 +514,7 @@
           <GUID>2143505694</GUID>
           <Name>Chemical Plant - Alcaline</Name>
           <IconFilename>data/ui/icon_chemical.png</IconFilename>
-          <InfoDescription>2143505698</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -524,7 +524,7 @@
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Object>
@@ -633,7 +633,7 @@
           <GUID>2143506111</GUID>
           <Name>Chemical Plant - Acidic</Name>
           <IconFilename>data/ui/icon_chemical.png</IconFilename>
-          <InfoDescription>2143505698</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -643,7 +643,7 @@
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Object>
@@ -756,7 +756,7 @@
           <GUID>2143505883</GUID>
           <Name>Chemical Plant - Solvant</Name>
           <IconFilename>data/ui/icon_chemical.png</IconFilename>
-          <InfoDescription>2143505698</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -766,7 +766,7 @@
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Object>
@@ -875,7 +875,7 @@
           <GUID>2143505884</GUID>
           <Name>Chemical Plant - Petrochemicals</Name>
           <IconFilename>data/ui/icon_chemical.png</IconFilename>
-          <InfoDescription>2143505698</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -885,7 +885,7 @@
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Object>
@@ -1001,6 +1001,7 @@
           <GUID>2143505886</GUID>
           <Name>Chemical Plant - Sulfuric Acid</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/khobs/icon_sulfuric_acid.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -1010,7 +1011,7 @@
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Object>
@@ -1130,6 +1131,7 @@
           <GUID>2143505891</GUID>
           <Name>Chemical Plant - Sodium Carbonate</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/khobs/bulk_goods/icon_sodium_carbonate.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -1139,7 +1141,7 @@
 					<AssociatedRegions>Moderate</AssociatedRegions>
 					<BuildingType>Factory</BuildingType>
           <AllowChangeVariation>1</AllowChangeVariation>
-					<BuildingCategoryName>2143505402</BuildingCategoryName>
+					<BuildingCategoryName>100000</BuildingCategoryName>
           <SecondPartyRelevant>0</SecondPartyRelevant>
         </Building>
         <Object>
@@ -1260,6 +1262,7 @@
           <GUID>2143505711</GUID>
           <Name>Chemical Plant - Celluloid</Name>
 			    <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_celluloid.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -1356,7 +1359,7 @@
           <GUID>2143505713</GUID>
           <Name>Chemical Plant - Ethanol</Name>
 			    <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_ethanol.png</IconFilename>
-          <InfoDescription>2143505698</InfoDescription>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Blocking>
           <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
@@ -1468,6 +1471,7 @@
           <GUID>2143505703</GUID>
           <Name>shampoo_factory</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/khobs/icon_shampoo_half.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <InfluencedByNeighbors>
@@ -1590,6 +1594,7 @@
           <GUID>2143505705</GUID>
           <Name>lemonade_factory</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/khobs/icon_lemonade_half.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <InfluencedByNeighbors>
@@ -1712,6 +1717,7 @@
           <GUID>2143505707</GUID>
           <Name>souvenir_factory</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/khobs/icon_souvenir_half.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <InfluencedByNeighbors>
@@ -1836,6 +1842,7 @@
           <GUID>2143505721</GUID>
           <Name>soda_factory</Name>
 			    <IconFilename>data/ui/2kimages/main/3dicons/khobs/icon_soda_half.png</IconFilename>
+          <InfoDescription>11143</InfoDescription>
         </Standard>
         <Building>
           <InfluencedByNeighbors>

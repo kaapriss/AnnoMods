@@ -34,11 +34,6 @@
       <GUID>2143505403</GUID>
       <Text>Modular Industries</Text>
     </Text>
-
-    <Text>
-      <GUID>2143505599</GUID>
-      <Text>Textile Industry Module</Text>
-    </Text>
     <Text>
       <GUID>2143505620</GUID>
       <Text>An additional workshop to boost factory productivity.</Text>
@@ -75,16 +70,8 @@
 
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
-      <GUID>2143505801</GUID>
-      <Text>Company: Bricks</Text>
-    </Text>
-    <Text>
       <GUID>2143505803</GUID>
       <Text>Brickworks</Text>
-    </Text>
-    <Text>
-      <GUID>2143505804</GUID>
-      <Text>Produces goods.</Text>
     </Text>
     <Text>
       <GUID>2143505805</GUID>
@@ -110,10 +97,6 @@
       <GUID>2143505810</GUID>
       <Text>Ready to produce Brick</Text>
     </Text>
-    <Text>
-      <GUID>2143505811</GUID>
-      <Text>Brickworks Industry Module</Text>
-    </Text>
   </ModOp>
 
   <ModOp Type="add" Path="/TextExport/Texts">
@@ -128,10 +111,6 @@
     <Text>
       <GUID>2143506022</GUID>
       <Text>This Lumberjack is exclusive to the Wood Mill building.</Text>
-    </Text>
-    <Text>
-      <GUID>2143506023</GUID>
-      <Text>Woodworks Industry Module</Text>
     </Text>
   </ModOp>
 </ModOps>

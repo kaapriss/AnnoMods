@@ -29,7 +29,12 @@
     </Asset>
   </ModOp>
 
-  
+  <ModOp GUID="25000191" Type="addPrevSibling" Path="Values/ConstructionCategory/BuildingList/Item[Building='500010']">
+    <Item>
+      <Building>2143505403</Building>
+    </Item>
+  </ModOp>
+
   <!-- START - Texts -->
   <ModOp GUID="25000192" Type="addNextSibling">
     <Asset>
@@ -202,9 +207,29 @@
   </ModOp>
   <!-- END - Texts -->
 
+  <!-- ADD - Chains -->
   <ModOp GUID="500091" Type="add" Path="Values/ProductionChain/Tier1/">
     <Item>
       <Building>2143506019</Building>
     </Item>
   </ModOp>
+
+  <ModOp GUID="500024" Type="add" Path="Values/ProductionChain/Tier1/">
+    <Item>
+      <Building>2143505803</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp GUID="500505" Type="add" Path="Values/ProductionChain/Tier1/">
+    <Item>
+      <Building>2143505631</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp GUID="120288" Type="add" Path="Values/ProductionChain/Tier1/">
+    <Item>
+      <Building>2143505634</Building>
+    </Item>
+  </ModOp>
+  <!-- END - Chains -->
 </ModOps>
