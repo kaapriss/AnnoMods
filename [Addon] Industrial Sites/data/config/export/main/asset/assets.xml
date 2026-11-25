@@ -6,41 +6,18 @@
 2143505402 - Mod Category Name - Text
 2143505555 - Factory Module Boostable Infotip - Text
 2143505400 - Creative Trigger - Trigger
-2143505920 - Creative Trigger additionnal pools - Trigger
 2143505900 - Workers - Unhide Ornaments - Trigger
 2143505901 - Workers - Unlock Ornaments - Trigger
-2143505902 - Workers - Unhide Freight Station - Trigger
-2143505903 - Workers - Unlock Freight Station - Trigger
-2143505905 - Artisans - Unlock Freight Export Goods - Trigger
-2143505906 - Artisans - Unhide Textile Company - Trigger
-2143505907 - Artisans - Unlock Textile Company and unhide Brick Company - Trigger
-2143505908 - Engineers - Unlock Brick Company - Trigger
-2143505909 - Engineers - Unlock Spectacles Export Freight - Trigger
-2143505910 - Engineers - Unhide Crusher/Sifter/Workshop/Oil Export Freight - Trigger
-2143505911 - Engineers - Unlock Crusher/Sifter/Workshop - Trigger
-2143505913 - Engineers - Unlock Oil Export Freight - Trigger
-2143505914 - Engineers - Unlock Caoutchouc Import Freight  - Trigger
-2143505915 - Engineers - Unhide Steel/Chemical Companies - Trigger
-2143505916 - Engineers - Unlock Steel/Chemical Companies - Trigger
-2143505917 - Engineers - Unhide Chemical Pools - Trigger
-2143505919 - Engineers - Unlock Halfed Factories - Trigger
-2143505921 - Engineers - Unlock Steel Pool - Trigger
 2143505800 - AssetPool Brickworks - AssetPool
 2143505803 - Brickworks - FactoryBuilding7Modulable
 2143505805 - Brickworks Modules - FactoryBuildingModule7
 2143505807 - Clayworks - BuffFactoryModule
 2143505410 - FakeInputBrickResource - Product
-2143505809 - Logistic Depot - Module - Brick - Container - EffectContainer
-2143505810 - Logistic Depot - Module - Brick - Buff - GuildhouseBuff
-2143505609 - advanced clothes chain - ProductionChain
-2143505611 - advanced tapestry chain - ProductionChain
-2143505897 - advanced brick chain - ProductionChain
-2143505898 - advanced wood chain - ProductionChain
+2143505809 - Module - Brick - Container - EffectContainer
+2143505810 - Module - Brick - Buff - GuildhouseBuff
 2143505403 - Industrial Sites Menu - ConstructionCategory
-2143505804 - Brickworks Description - Text
 2143505806 - Brick Kiln Description - Text
 2143505808 - Clayworks Description - Text
-2143505811 - Brickworks Industry Module - Text
 2143506025 - Clayworks - Infotip - InfoTip
 2143505599 - Textile Industry Module - Text
 2143505834 - Textile Industry - Description - Text
@@ -49,7 +26,6 @@
 2143505859 - Tapestry Workshop - Gameplay Description - Text
 2143506021 - Wood Mill Lumberjack - Infotip - InfoTip
 2143506022 - Wood Mill Lumberjack - Gameplay Description - Text
-2143506023 - Woodworks Industry Module - Text
 2143506024 - Woodworks Factories Description - Text
 2143505594 - assetpool modular textile - AssetPool
 2143505631 - Industrial Knitter - FactoryBuilding7
@@ -72,7 +48,34 @@
 2143506014 - Steam Possible Text - Text
 2143506015 - Steam Explanation Text - Text
 2143506016 - Creative Trigger - Trigger
-2143506017 - Trigger - Trigger 
+2143506017 - Trigger - Trigger
+
+2143505801 - UNUSED
+2143505804 - UNUSED
+2143505811 - UNUSED
+2143506023 - UNUSED
+2143505599 - UNUSED
+2143505609 - UNUSED
+2143505611 - UNUSED
+2143505897 - UNUSED
+2143505898 - UNUSED
+2143505906 - UNUSED
+2143505907 - UNUSED
+2143505908 - UNUSED
+2143505915 - UNUSED
+2143505916 - UNUSED
+2143505917 - UNUSED
+2143505919 - UNUSED
+2143505921 - UNUSED
+2143505910 - UNUSED
+2143505911 - UNUSED
+2143505902 - UNUSED
+2143505903 - UNUSED
+2143505905 - UNUSED
+2143505909 - UNUSED
+2143505913 - UNUSED
+2143505914 - UNUSED
+2143505920 - UNUSED
 -->
 <ModOps>
   <!-- Include Region -->

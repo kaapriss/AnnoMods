@@ -88,6 +88,15 @@
 2143505699 - Chemical Compound - Product
 2143505554 - Chemicals - Barrel - Product
 2143505885 - Sulfuric Acid - Product 
+2143506077 - Creative Trigger - Trigger
+2143506078 - intermediate moderate 2.0 - Unhide Freight Station - Trigger
+2143506079 - intermediate moderate 2.1 - Unlock Freight Station - Trigger
+2143506080 - intermediate moderate 3.0 - Unlock Freight Export Goods - Trigger
+2143506081 - intermediate moderate 4.0 - Unlock Spectacles Export Freight - Trigger
+2143506082 - intermediate moderate 4.0 - Unlock Oil Export Freight - Trigger
+2143506083 - intermediate moderate 4.0 - Unlock Caoutchouc Import Freight - Trigger
+2143506084 - intermediate moderate 4.0  - Unhide Chemical Pools - Trigger
+2143506085 - intermediate moderate 4.0 - Unlock Halfed Factories - Trigger
 -->
 <ModOps>
   <Include File="company.include.xml" />
