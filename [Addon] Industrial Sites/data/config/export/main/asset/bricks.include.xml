@@ -827,4 +827,25 @@
     </Item>
   </ModOp>
   <!-- END - Adding working conditions -->
+
+  <!-- START - Variations -->
+  <ModOp Type="add" GUID="1010283" Path="/Values/Building">
+    <AllowChangeVariation>1</AllowChangeVariation>
+    <AllowChangeDirection>1</AllowChangeDirection>
+  </ModOp>
+  <ModOp Type="add" GUID="1010283" Path="/Values/Object/Variations">
+    <Item>
+      <Filename>data/modgraphics/buildings/production/brick_01.cfg</Filename>
+    </Item>
+    <Item>
+      <Filename>data/modgraphics/buildings/modules/brick_single.cfg</Filename>
+    </Item>
+    <Item>
+      <Filename>data/modgraphics/buildings/modules/brick_mid_01.cfg</Filename>
+    </Item>
+  </ModOp>
+  <!-- END - Variations -->
+
+
+  
 </ModOps>
