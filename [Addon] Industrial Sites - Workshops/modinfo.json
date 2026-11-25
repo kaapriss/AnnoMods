@@ -1,5 +1,5 @@
 {
-	"Version": "2.1.1",
+	"Version": "2.1.2",
 	"ModID": "industrial_sites_workshops",
 	"IncompatibleIds": null,
 	"ModDependencies": [
@@ -11,7 +11,8 @@
 		"ropes-jakob"
 	],
 	"LoadAfterIds": [
-		"Taludas_VanillaRiverSlotBuildingsOW"
+		"Taludas_VanillaRiverSlotBuildingsOW",
+		"Taludas_neutral_irontower_workforceslider"
 	],
 	"Category": {
 		"Chinese": "Addon",
