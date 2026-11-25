@@ -1,0 +1,32 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2143506010</GUID>
+      <Text>Chaudière à vapeur</Text>
+    </Text>
+    <Text>
+      <GUID>2143506011</GUID>
+      <Text>Brûle du charbon pour produire de la vapeur afin d'alimenter les usines à proximité.</Text>
+    </Text>
+    <Text>
+      <GUID>2143506012</GUID>
+      <Text>Vapeur</Text>
+    </Text>
+    <Text>
+      <GUID>2143506013</GUID>
+      <Text>Cette usine produit plus vite car elle est desservie en vapeur.</Text>
+    </Text>
+    <Text>
+      <GUID>2143506014</GUID>
+      <Text>Amélioré par la vapeur</Text>
+    </Text>
+    <Text>
+      <GUID>2143506015</GUID>
+      <Text>Fournit de la vapeur aux usines et reliées..</Text>
+    </Text>
+    <Text>
+      <GUID>2143506018</GUID>
+      <Text>Vapeur</Text>
+    </Text>
+  </ModOp>
+</ModOps>

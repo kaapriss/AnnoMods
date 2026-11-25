@@ -115,7 +115,7 @@
           <GUID>2143506018</GUID>
           <Name>Steam boiler chain</Name>
           <IconFilename>data/ui/khobs/icon_steam_boiler.png</IconFilename>
-          <InfoDescription>2143506011</InfoDescription>
+          <InfoDescription>2143506018</InfoDescription>
         </Standard>
         <ProductionChain>
           <Building>2143506010</Building>
